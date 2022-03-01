@@ -1,0 +1,2864 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Protector. A poem briefly illustrating the supereminency of that dignity; and, rationally demonstrating, that the title of Protector, providentially conferred upon the supreme governour of the British republike, is the most honorable of all titles, and, that, which, probably, promiseth most propitiousness to these nations; if our sins and divisions prevent it not. / Composed by George Wither, Esq; ...</title>
+            <author>Wither, George, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 120 KB of XML-encoded text transcribed from 32 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96764</idno>
+            <idno type="STC">Wing W3184</idno>
+            <idno type="STC">Thomason E1565_2</idno>
+            <idno type="STC">ESTC R204098</idno>
+            <idno type="EEBO-CITATION">99868071</idno>
+            <idno type="PROQUEST">99868071</idno>
+            <idno type="VID">170092</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96764)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170092)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 198:E1565[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Protector. A poem briefly illustrating the supereminency of that dignity; and, rationally demonstrating, that the title of Protector, providentially conferred upon the supreme governour of the British republike, is the most honorable of all titles, and, that, which, probably, promiseth most propitiousness to these nations; if our sins and divisions prevent it not. / Composed by George Wither, Esq; ...</title>
+                  <author>Wither, George, 1588-1667.</author>
+               </titleStmt>
+               <extent>[12], 50 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. and are to be sold at the Angel in Paul's Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>In this edition, there are commas following "and" and "that" on title page.</note>
+                  <note>Annotation on Thomason copy: "July. 6.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170092:1" rendition="simple:additions"/>
+            <p>The Protector. A POEM Briefly illuſtrating the Supereminency of that Dignity; AND, Rationally demonſtrating, that the Title of PROTECTOR, providentially conferred upon the <hi>Supreme Governour</hi> of the <hi>Britiſh Republike,</hi> is the moſt Honorable of all Titles, and, that, which, probably, promiſeth moſt Propitiouſneſs to theſe <hi>Nations;</hi> if our <hi>Sins</hi> and <hi>Diviſions</hi> prevent it not.</p>
+            <p>Compoſed by <hi>George Wither,</hi> Eſq;</p>
+            <p>Take theſe Hints at the Threſhold.</p>
+            <lg>
+               <l>The uſe of moſt things, which GOD frames,</l>
+               <l>He ſtamps upon them, by their Names.</l>
+               <l>The truest Honour, always, lies</l>
+               <l>In that, which Worldlings, most deſpiſe.</l>
+               <l>The greateſt Pow'r, not kept upright,</l>
+               <l>Soon ſwerves, and falls, by its own Weight.</l>
+               <l>The beſt Effects, Mankinde enjoys,</l>
+               <l>By that, which their own work, deſtroys.</l>
+               <l>The gladdeſt Tidings, have been brought,</l>
+               <l>By means, and perſons, ſet at Nought.</l>
+               <l>And ſaddest Danger, thoſe attends,</l>
+               <l>Who court their Foes, and ſleight their Friends.</l>
+            </lg>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J.C.</hi> and are to be ſold at the Angel in <hi>Paul</hi>'s Church-yard. 1655.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170092:2"/>
+            <pb facs="tcp:170092:2"/>
+            <head>To the High and Mighty, <hi>OLIVER,</hi> By the grace of God, of the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England, Scotland, France</hi> and <hi>Ireland,</hi> with the Iſles and Dominions thereof, Imperial <hi>PROTECTOR;</hi> as alſo, Catholike Defender of the oppreſſed Saints, throughout the World: GEO. WITHER <hi>humbly offers, this Illuſtration of that ſupereminent</hi> TITLE.</head>
+            <div type="preface">
+               <lg>
+                  <l>I Know, that Malice will impute to me</l>
+                  <l>The guilt of <hi>Flatt'ry</hi> in a high degree:</l>
+                  <l>Yet, with a conſcience blameleſs of that ſin,</l>
+                  <l>Thus, in deſpight of <hi>Envie,</hi> I begin:</l>
+               </lg>
+               <q>
+                  <lg>
+                     <l>LORD, of the noblest of all <hi>Soveraign Stiles,</hi>
+                     </l>
+                     <l>Of BRITAN<hi>'s Empire, Provinces,</hi> and <hi>Iſles:</hi>
+                     </l>
+                     <l>Bright <hi>Load-ſtar</hi> of the <hi>North;</hi> who (for <hi>Director</hi>
+                     </l>
+                     <l>As well, through <hi>future times,</hi> as for PROTECTOR</l>
+                     <l>Of <hi>us</hi> who now ſurvive) haſt raiſed bin</l>
+                     <l>By <hi>Providence,</hi> that <hi>Great Work</hi> to begin,</l>
+                     <l>Which hath been long in hope; and which, hence forth</l>
+                     <l>Shall ſpread ſuch <hi>Influences</hi> from the <hi>North</hi>
+                     </l>
+                     <l>Throughout the earth, as will their ſouls amaze,</l>
+                     <l>Who, on thy late <hi>Aſcention,</hi> ſtand at gaze:</l>
+                     <l>
+                        <hi>Deſcend a little,</hi> and caſt down thine eyes</l>
+                     <l>On this, which at thy feet diſplayed lyes;</l>
+                     <pb facs="tcp:170092:3"/>
+                     <l>And, let thy great Humility, dispence</l>
+                     <l>With what, may ſeem in me a <hi>Confidence</hi>
+                     </l>
+                     <l>Above my <hi>Sphere:</hi> for, to the <hi>higheſt things,</hi>
+                     </l>
+                     <l>The loweſt, otherwhiles, additions brings,</l>
+                     <l>If not obſtructed by thoſe <hi>dire Aſpects,</hi>
+                     </l>
+                     <l>Which menace, now, <hi>malevolent Effects.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Some days, before that <hi>PARLIAMENT</hi> was past,</l>
+                     <l>Which, may, yet, called be, your <hi>firſt,</hi> and <hi>laſt;</hi>
+                     </l>
+                     <l>This <hi>Poeme,</hi> (and the <hi>Lines</hi> which next enſue,</l>
+                     <l>To uſher it) was fitted for your view,</l>
+                     <l>And, their peruſal; who, might then have bin</l>
+                     <l>(As I ſuppoſed) much concern'd therein.</l>
+                     <l>But, ſomewhat intervening, which did ſeem</l>
+                     <l>To make it out of ſeaſon, at that time,</l>
+                     <l>It was ſix months delay'd, to wait upon</l>
+                     <l>That ſubſequence which would enſue thereon;</l>
+                     <l>And, now, a better <hi>Oportunity</hi>
+                     </l>
+                     <l>Appearing, <hi>This,</hi> in all humility,</l>
+                     <l>Moves toward you again, in ev'ry thing</l>
+                     <l>The ſame it was, except this <hi>prefacing,</hi>
+                     </l>
+                     <l>Which here concludes. Let the Contents be weigh'd,</l>
+                     <l>As they deſerve: for, <hi>this,</hi> was that I ſaid.</l>
+                  </lg>
+               </q>
+            </div>
+            <div type="text">
+               <lg>
+                  <l>I Finde among the beſt <hi>Antiquities,</hi>
+                  </l>
+                  <l>That, they who rul'd the worlds chief <hi>Monarchies</hi>
+                  </l>
+                  <l>Gave thoſe, whom they moſt favor'd, ſome <hi>New name:</hi>
+                  </l>
+                  <l>And, GOD <hi>himſelf,</hi> hath ſometime done the ſame</l>
+                  <l>To his <hi>choice Favourites,</hi> when he begun</l>
+                  <l>Great <hi>Changes,</hi> and when <hi>ſignal acts</hi> were done,</l>
+                  <l>In order to a <hi>ſeas'nable proceed,</hi>
+                  </l>
+                  <l>With what, had been <hi>eternally decreed.</hi>
+                  </l>
+                  <l>Now, in like maner, for the ſame intent,</l>
+                  <l>He, by a <hi>New name,</hi> makes thee eminent,</l>
+                  <pb facs="tcp:170092:3"/>
+                  <l>Above all other <hi>Princes,</hi> to bring on</l>
+                  <l>That <hi>Kingdom,</hi> which he promis'd long agon.</l>
+                  <l>And, to that end, <hi>YOU,</hi> (of whom no man thought</l>
+                  <l>In that way) from Obſcurity are brought,</l>
+                  <l>To ſhew the <hi>world,</hi> That, he, ev'n to this day,</l>
+                  <l>Proceeds, with his <hi>own works,</hi> in his <hi>own way;</hi>
+                  </l>
+                  <l>Neither, her <hi>Pow'rs,</hi> in his <hi>Deſignments</hi> needing,</l>
+                  <l>Nor thoſe great <hi>Perſons,</hi> or that <hi>means,</hi> much heed<g ref="char:EOLhyphen"/>ing</l>
+                  <l>Which <hi>humane prudence,</hi> thinks, conducing to</l>
+                  <l>That, which <hi>eternal Wiſdom</hi> means to do.</l>
+               </lg>
+               <lg>
+                  <l>And, he, perhaps, hath call'd me, from among</l>
+                  <l>The <hi>Vulgar,</hi> and moſt deſpicable <hi>Throng,</hi>
+                  </l>
+                  <l>To help rough-hew their hearts, who by <hi>diſſentions,</hi>
+                  </l>
+                  <l>Are Foes to their own <hi>Peace,</hi> and his <hi>intentions:</hi>
+                  </l>
+                  <l>As alſo, to illuſtrate ſo to <hi>you,</hi>
+                  </l>
+                  <l>And, unto <hi>them,</hi> the <hi>Name</hi> conferred now;</l>
+                  <l>That, by obſerving it, both <hi>You,</hi> and <hi>They</hi>
+                  </l>
+                  <l>(Before it be too late) conſider may</l>
+                  <l>How <hi>You,</hi> and <hi>They,</hi> are thereby priviledg'd;</l>
+                  <l>Whereto, you, joyntly, ſeem to be oblig'd;</l>
+                  <l>Whereto, apart; what, will ſucceed upon</l>
+                  <l>That, which ſhall <hi>well,</hi> or <hi>wickedly</hi> be done:</l>
+                  <l>And, that the time is come, or neer at hand,</l>
+                  <l>Which offers us, the means, to <hi>fall</hi> or <hi>ſtand.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>At leaſt, I do believe, that I was born</l>
+                  <l>To act this Part; and will, till I return</l>
+                  <l>To him that ſent me; leaving the ſucceſs</l>
+                  <l>To <hi>Providence,</hi> which gets advantages</l>
+                  <l>By diſadvantage; and, oft, makes our gains</l>
+                  <l>Then greateſt, when moſt think, we loſe our pains.</l>
+               </lg>
+               <lg>
+                  <l>I was about to tell you, what I <hi>hear;</hi>
+                  </l>
+                  <l>What, ſome <hi>ſuſpect;</hi> what, many ſeem to <hi>fear;</hi>
+                  </l>
+                  <l>And, what moſt men <hi>repine</hi> at: But, your <hi>Sun</hi>
+                  </l>
+                  <l>Wants not my <hi>Candle,</hi> nor needs this be done:</l>
+                  <pb facs="tcp:170092:4"/>
+                  <l>For, you have ev'rywhere, both <hi>Ears,</hi> and <hi>Eyes,</hi>
+                  </l>
+                  <l>To finde where <hi>Danger,</hi> or <hi>Advantage</hi> lyes;</l>
+                  <l>And, I can bring you, but a <hi>Gloworms</hi> light,</l>
+                  <l>Which rarely ſhines, except to them, whoſe <hi>Night</hi>
+                  </l>
+                  <l>
+                     <hi>Affliction</hi> darkens: And, it ſeems, ev'n then,</l>
+                  <l>An <hi>Ignis Fatuus,</hi> to ſome Prudent men.</l>
+               </lg>
+               <lg>
+                  <l>Till therefore, I ſhall finde my ſelf more able,</l>
+                  <l>In your <hi>Concernments</hi> to be ſerviceable,</l>
+                  <l>I will in <hi>humble ſilence,</hi> wait upon</l>
+                  <l>What ſhall, by GOD, by <hi>You,</hi> and <hi>Thoſe,</hi> be done</l>
+                  <l>Who repreſent theſe <hi>Nations;</hi> and, who be</l>
+                  <l>Objects of <hi>Contemplation</hi> now, to me,</l>
+                  <l>Whereby, I Calculate what may ſucceed,</l>
+                  <l>When, joyn'd together, I your <hi>Actings</hi> read:</l>
+                  <l>For, <hi>Truths,</hi> to me, your <hi>Trine-aſpect</hi> more clears,</l>
+                  <l>Then all the <hi>Conſtellations</hi> of the <hi>Sphears:</hi>
+                  </l>
+                  <l>Yea, thoſe <hi>Three</hi> ſhew me, what things will be done,</l>
+                  <l>Better, then all the <hi>Stars,</hi> the <hi>Moon,</hi> and <hi>Sun.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>There are ſome Clouds which trouble ſo my ſight,</l>
+                  <l>That I diſcern not things, which elſe I might:</l>
+                  <l>But this I plainly view, that, much is left</l>
+                  <l>Unto <hi>Contingencis,</hi> to be bereſt,</l>
+                  <l>Or elſe enjoy'd, according as <hi>you</hi> prove</l>
+                  <l>Who, in the two <hi>Inferiour Orbs,</hi> do move:</l>
+                  <l>And, if I know <hi>you,</hi> or, by what proceeds</l>
+                  <l>Either from <hi>Circumſtances, Words,</hi> or <hi>Deeds,</hi>
+                  </l>
+                  <l>May know, what you unfeignedly deſire,</l>
+                  <l>(And whereunto you chiefly do aſpire)</l>
+                  <l>You aim at nothing more, then, to poſſeſs</l>
+                  <l>A <hi>Throne</hi> eſtabliſhed by <hi>Righteouſneſs:</hi>
+                  </l>
+                  <l>And that thoſe <hi>Heſitations,</hi> and that <hi>Doubt,</hi>
+                  </l>
+                  <l>In which you let theſe <hi>Nations</hi> ravel out</l>
+                  <l>So many <hi>Months,</hi> is, neither <hi>ill Deſigne,</hi>
+                  </l>
+                  <l>Nor <hi>Evidence,</hi> that you from them decline:</l>
+                  <pb facs="tcp:170092:4"/>
+                  <l>But, an <hi>Expedient,</hi> which, your wiſdom tries</l>
+                  <l>To work by, in your late <hi>Emergencies.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Unleſs, I be deceiv'd (which, God forbid)</l>
+                  <l>In what you do, and what you lately did,</l>
+                  <l>You, take no pleaſure in delays, or troubles,</l>
+                  <l>Which needleſly, their coſt or labour doubles;</l>
+                  <l>But, onely, leave it to themſelves, to ſtate</l>
+                  <l>Their <hi>Queſtions,</hi> and, their <hi>heats</hi> to moderate,</l>
+                  <l>By their own <hi>Prudence,</hi> (without interpoſing</l>
+                  <l>Your judgement, or their purpoſes oppoſing)</l>
+                  <l>That, by a <hi>free debate,</hi> they fully may</l>
+                  <l>Know their own <hi>temper;</hi> and, <hi>you</hi> finde the way</l>
+                  <l>To ſuch <hi>Reſolvings,</hi> as may beſt aſſure</l>
+                  <l>A ſettlement of <hi>Peace,</hi> which will endure;</l>
+                  <l>And, that, when <hi>you,</hi> by their <hi>Conteſts</hi> have found</l>
+                  <l>Which <hi>Members rotten</hi> be, and which are <hi>ſound;</hi>
+                  </l>
+                  <l>Who gives <hi>good counſel,</hi> who <hi>bad things</hi> infuſes;</l>
+                  <l>Who ſpeaks his <hi>Conſcience,</hi> who his <hi>Truſt</hi> abuſes;</l>
+                  <l>Who ſtrives to build up <hi>Truth,</hi> who pulls it down;</l>
+                  <l>Who neither ſtoops to <hi>ſmiles,</hi> nor fears a <hi>frown:</hi>
+                  </l>
+                  <l>Who merits to be ſtripped of his <hi>power,</hi>
+                  </l>
+                  <l>Who ſeeks his <hi>own ends,</hi> by pretending <hi>your;</hi>
+                  </l>
+                  <l>Who <hi>flatters,</hi> who is <hi>fickle,</hi> who is <hi>ſtout;</hi>
+                  </l>
+                  <l>Who fitteſt for the <hi>Work</hi> you are about;</l>
+                  <l>With other ſuch <hi>diſcov'ries,</hi> that, from thence</l>
+                  <l>You may extract <hi>Reſults of Conſequence</hi>
+                  </l>
+                  <l>For <hi>Common benefit:</hi> I do preſume</l>
+                  <l>You will, at laſt, to that <hi>Concluſion</hi> come,</l>
+                  <l>Which all <hi>Good-men</hi> expect: and, act, what beſt</l>
+                  <l>Conduceth to the <hi>Publike Interest,</hi>
+                  </l>
+                  <l>Much better, then you either could have done,</l>
+                  <l>By interrupting, what ſeem'd carried on;</l>
+                  <l>Or, by poſſeſſing them with hopes, to have</l>
+                  <l>Whatever, they ſhould pleaſed be, to crave:</l>
+                  <pb facs="tcp:170092:5"/>
+                  <l>For, <hi>Full-fed Steeds</hi> grow wanton, if their <hi>Guiders</hi>
+                  </l>
+                  <l>Neglect the <hi>Rein;</hi> and, ſpoil <hi>themſelves,</hi> and <hi>Riders.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Theſe are the <hi>thoughts,</hi> to which my heart inclines,</l>
+                  <l>Without a dictate of your own <hi>Deſignes</hi>
+                  </l>
+                  <l>From any hand: which thoughts, if you approve,</l>
+                  <l>I have, at this time, nothing more to move,</l>
+                  <l>But, that you will be pleaſed to peruſe</l>
+                  <l>What of your <hi>Sov'raign Title</hi> now enſues;</l>
+                  <l>That, it may minde you of his <hi>love</hi> who gave it;</l>
+                  <l>Shew, on what terms, to what intent you have it;</l>
+                  <l>And keep you careful, that it be not <hi>changed;</hi>
+                  </l>
+                  <l>Leſt, ſomewhat, from you, therewith be eſtranged,</l>
+                  <l>Which you are loth to loſe, and, muſt forgo,</l>
+                  <l>When you grow diſaffected thereunto:</l>
+                  <l>For, you will finde it ſo, when 't is too late</l>
+                  <l>To ſeek th' effects, which may be aimed at,</l>
+                  <l>By ſuch an <hi>Innovation;</hi> and, will ſee</l>
+                  <l>
+                     <hi>Ill Conſequences,</hi> which, yet hidden be,</l>
+                  <l>If (as I think you are not) I ſhould finde</l>
+                  <l>Your <hi>Highneſs,</hi> to be mutably inclinde.</l>
+               </lg>
+               <lg>
+                  <l>I aim at nothing, but to make you ſtrong</l>
+                  <l>For that <hi>Work,</hi> whereto ſeemeth to belong</l>
+                  <l>This, your <hi>advancement;</hi> and ſhall not deſiſt</l>
+                  <l>Therein, although my <hi>private Intereſt</hi>
+                  </l>
+                  <l>You ſhould neglect; or, value me no more</l>
+                  <l>Then they, who have oppreſt me heretofore.</l>
+               </lg>
+               <lg>
+                  <l>Believe this, SIR: for, from a heart it came,</l>
+                  <l>Which prompts no <hi>guile:</hi> and, be aſſur'd, I am</l>
+                  <l>(As unto him, who bears next under GOD</l>
+                  <l>Our <hi>Staff Protecting,</hi> or <hi>Correcting</hi> ROD)</l>
+               </lg>
+            </div>
+            <closer>
+               <signed>To your Highneſs, both faithfully, and conſcientiouſly devoted, GEO. WITHER,</signed>
+            </closer>
+         </div>
+         <div type="author_to_the_readers">
+            <pb facs="tcp:170092:5"/>
+            <head>To the Readers.</head>
+            <lg>
+               <l>THe Subject of my <hi>Muſe,</hi> is now a <hi>TITLE;</hi>
+               </l>
+               <l>Which, though yet known unto the <hi>World</hi> but little;</l>
+               <l>May much concern it: but, abov the rest,</l>
+               <l>(And in the firſt place) <hi>Britain</hi>'s Interest;</l>
+               <l>If we deſtroy not, by a <hi>wilful ſinning,</hi>
+               </l>
+               <l>The glory of it, in the firſt <hi>beginning.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>'T is not my <hi>Principle,</hi> to take away,</l>
+               <l>Or, to reſiſt the Pow'r I ſhould obey,</l>
+               <l>Or, queſtion that, which <hi>Providence</hi> approves,</l>
+               <l>Or ſets up, when another it removes;</l>
+               <l>Confirming viſibly, what it advances,</l>
+               <l>With all the <hi>Supplements</hi> and <hi>Circumſtances</hi>
+               </l>
+               <l>Which make a <hi>Pow'r:</hi> and therefore, when at firſt,</l>
+               <l>
+                  <hi>Pow'r</hi> was diſ-joynted, and I ſeem'd inforc'd</l>
+               <l>To take one <hi>Part</hi> of what was then divided;</l>
+               <l>I clave to that, wherewith, I thought reſided</l>
+               <l>Moſt <hi>Equity,</hi> adhering to the ſame</l>
+               <l>With Conſtancie; and, I think, without blame</l>
+               <l>Justly imputed: for, with an intent</l>
+               <l>To ſerve as well the <hi>King,</hi> as <hi>Parliament,</hi>
+               </l>
+               <l>I put on <hi>Arms;</hi> and, as ſincerely ſought</l>
+               <l>His good, as theirs, beneath whoſe <hi>Flag</hi> I fought,</l>
+               <l>Till, I, betwixt them nigh deſtroy'd became;</l>
+               <l>And, then, perceiving they were <hi>both</hi> to blame,</l>
+               <l>Left off the <hi>Quarrel,</hi> unto <hi>Him,</hi> that knew</l>
+               <l>Which beſt deſerv'd, and, what to <hi>both</hi> was due.</l>
+               <l>Yet, firm continu'd, to this <hi>Commonweal,</hi>
+               </l>
+               <l>When, by the <hi>Sword,</hi> GOD, anſwer'd her Appeal,</l>
+               <pb facs="tcp:170092:6"/>
+               <l>According to our <hi>Laws,</hi> (which, in ſuch caſe,</l>
+               <l>
+                  <hi>Combate</hi> allows, when no proof elſe, takes place.)</l>
+               <l>Yea, to the <hi>Peoples Repreſentative,</hi>
+               </l>
+               <l>I, did (though thereby wrong'd) obedience give;</l>
+               <l>Contributing, what I was able, then,</l>
+               <l>With my <hi>Eſtate,</hi> and alſo by my <hi>Pen:</hi>
+               </l>
+               <l>Which, (though deſpiſed) ſomewhat did effect</l>
+               <l>Producing more <hi>Advantage,</hi> then <hi>reſpect:</hi>
+               </l>
+               <l>For, they, who were not pleas'd it ſhould be known</l>
+               <l>To come from me, made my <hi>Deſignes</hi> their own;</l>
+               <l>And left me to the miſchief of their hate,</l>
+               <l>Who, malic'd my Affection, to the <hi>State.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When their <hi>Pow'r</hi> ſubdivided, I adher'd</l>
+               <l>To that, in which moſt <hi>Righteouſneſs</hi> appear'd:</l>
+               <l>And, though I ſuffer'd ſtill, without regard,</l>
+               <l>(Aiming at nobler Guerdon, and reward,</l>
+               <l>Then they could give me) did the beſt I could,</l>
+               <l>Their <hi>Peace,</hi> and crazie <hi>Honour,</hi> to uphold</l>
+               <l>By ſecret <hi>Cautions,</hi> and, by publiſhing</l>
+               <l>What I much fear'd their courſe would on them bring:</l>
+               <l>But, <hi>Selfneſs, Pride,</hi> and <hi>Avarice,</hi> made void</l>
+               <l>All good endeavours, till they were deſtroy'd;</l>
+               <l>And, ſome among them, who deſerved well,</l>
+               <l>Were wrapt up, in the <hi>Miſchiefs</hi> which befel,</l>
+               <l>Blam'd, and unpiti'd; yea, and moſt of all</l>
+               <l>By <hi>them,</hi> whoſe <hi>wickedneſs,</hi> drew on their <hi>fall.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>How, it ſo came to paſs, I, could not mark;</l>
+               <l>For, in a <hi>Cloud</hi> 't was done, and in the <hi>dark,</hi>
+               </l>
+               <l>(As in reſpect of me) till, GOD reveal'd</l>
+               <l>That <hi>Myſtery,</hi> which was at firſt conceal'd:</l>
+               <l>And then, from late <hi>Corruptions,</hi> forth did peep</l>
+               <l>(As <hi>Eve</hi> from <hi>Adam,</hi> whilſt he was aſleep)</l>
+               <l>
+                  <hi>Appearances;</hi> which, when they were reduc'd</l>
+               <l>To their perfection, viſibly produc'd</l>
+               <pb facs="tcp:170092:6"/>
+               <l>The <hi>preſent GOVERNMENT,</hi> ere well I knew</l>
+               <l>What men were doing, or, what would enſue.</l>
+               <l>But, when it ſhew'd it ſelf, I, plainly ſaw</l>
+               <l>A <hi>Creature</hi> form'd, cloath'd with ſuch <hi>Pow'r,</hi> and awe,</l>
+               <l>That, none but GOD himſelf, could Author be</l>
+               <l>Of that, which I did then produced ſee:</l>
+               <l>Conſid'ring, what <hi>Confuſions</hi> we were in;</l>
+               <l>What, might, much rather, have expected bin;</l>
+               <l>And, how, to wonderment, he had aſſwag'd</l>
+               <l>Their <hi>Fury,</hi> who, were Envious, and enrag'd.</l>
+            </lg>
+            <lg>
+               <l>Therefore, although, before that time, I had</l>
+               <l>Some <hi>Overtures,</hi> within my own heart made;</l>
+               <l>And, ſome <hi>Expedients</hi> fancy'd, how to lay</l>
+               <l>
+                  <hi>Foundations</hi> of our <hi>Peace,</hi> another way;</l>
+               <l>And, to rebuild the <hi>Structure</hi> late o'erthrown,</l>
+               <l>By gath'ring out, from what was pulled down,</l>
+               <l>The <hi>Good,</hi> from <hi>Bad,</hi> (and that, which proved ſound,</l>
+               <l>From <hi>Rubbiſh,</hi> which therewith, was mixed found.)</l>
+               <l>I threw by my own thoughts; and, thenceforth, ſought</l>
+               <l>To work on, in that <hi>Work,</hi> which GOD had wrought;</l>
+               <l>And am reſolv'd, with all the ſtrength I have,</l>
+               <l>(And, ev'ry Faculty which I receive)</l>
+               <l>To fortifie that <hi>Pow'r,</hi> which rais'd I ſee,</l>
+               <l>Till God himſelf removes it; though to me</l>
+               <l>It prov'd leſs favourable, yea, and more</l>
+               <l>Deſtructive, then the <hi>Pow'r,</hi> which raign'd before:</l>
+               <l>And (without other purpoſe) to that end,</l>
+               <l>Theſe <hi>Muſings,</hi> on this Title did intend,</l>
+               <l>Which here enſues; that, you away may caſt</l>
+               <l>Your own <hi>Deſignes,</hi> as I did mine, at laſt,</l>
+               <l>And joyn together, in advancing that</l>
+               <l>New <hi>Pow'r,</hi> and <hi>Title,</hi> which, GOD, did create;</l>
+               <l>Rather, then by a fooliſh <hi>wilfulneſs,</hi>
+               </l>
+               <l>Oppoſe his <hi>will,</hi> and ruine your own <hi>Peace.</hi>
+               </l>
+               <pb facs="tcp:170092:7"/>
+               <l>Which <hi>Miſchief,</hi> that you timely may prevent,</l>
+               <l>(And, not deſtructive <hi>Diſcord</hi> ſtill foment)</l>
+               <l>I have contriv'd this <hi>Engine,</hi> to prepare</l>
+               <l>Their hearts for <hi>Concord,</hi> who divided are;</l>
+               <l>And ſhew them, what Advantages may riſe</l>
+               <l>By that, which they through <hi>Ignorance</hi> deſpiſe.</l>
+            </lg>
+            <lg>
+               <l>Conſider therefore, duely, what it may</l>
+               <l>Concern you, to take heed, of what I ſay;</l>
+               <l>And, that ſometime a <hi>Title,</hi> or a <hi>Word,</hi>
+               </l>
+               <l>(Scarce thought worth heed) occaſion may afford</l>
+               <l>Of furth'ring matters of great Conſequence,</l>
+               <l>And of removing things which gave offence.</l>
+               <l>Conſider what is offer'd to your view:</l>
+               <l>Remember, that ſome things, and not a few,</l>
+               <l>Which were foretold (ev'n many yeers before</l>
+               <l>They came to paſs) were careleſly paſs'd ore,</l>
+               <l>And what befel. Remember, that, to you</l>
+               <l>I have nought tender'd, yet, which prov'd untrue,</l>
+               <l>(If rightly underſtood) when 't was profeſs'd</l>
+               <l>Delib'rately, and, ſeriouſly expreſs'd:</l>
+               <l>And, let me finde reſpect, as I intend</l>
+               <l>Your weal, by that, which new I recommend.</l>
+            </lg>
+            <closer>
+               <signed>Your ancient Remembrancer, <hi>Geo. Wither.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:170092:7"/>
+            <head>The Protector.</head>
+            <head type="sub">A POEM Briefly illuſtrating the <hi>Supereminency</hi> of that <hi>Dignity.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Iſe <hi>Providence,</hi> which, leaves unheeded, nei<g ref="char:EOLhyphen"/>ther</l>
+               <l>ſhe <hi>falling hair,</hi> or wagging of a <hi>feather,</hi>
+               </l>
+               <l>Induceth me, ſomtimes, with ſerious eyes,</l>
+               <l>To view, &amp; Muſe on that, w<hi rend="sup">ch</hi> moſt deſpiſe:</l>
+               <l>And, now, amidſt a world of <hi>Things,</hi> I am</l>
+               <l>Thereby inclin'd, to Contemplate a <hi>Name;</hi>
+               </l>
+               <l>For which, perhaps, I ſhall be thought as wiſe,</l>
+               <l>As he, who telleth <hi>Straws,</hi> or hunteth <hi>Flyes:</hi>
+               </l>
+               <l>But, think men as they liſt, my Thinkings, too,</l>
+               <l>Shall be as free; and, what I pleaſe I'll do:</l>
+               <l>For, now, of <hi>boundleſs Freedoms</hi> many dream;</l>
+               <l>And, I may prove as wiſe, as one of them.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Factious Rout,</hi> becauſe I much decline</l>
+               <l>Their <hi>Principles,</hi> pretend, I fall from mine;</l>
+               <l>And, falſly, ſay, that, I have taught my <hi>Rimes</hi>
+               </l>
+               <l>To ſoothe the <hi>Innovations</hi> of theſe Times:</l>
+               <l>As if, a zeal to <hi>Publike good,</hi> none had,</l>
+               <l>Until it made him, in ſome meaſure, mad,</l>
+               <pb n="2" facs="tcp:170092:8"/>
+               <l>And partner in ſeditious ways, with thoſe,</l>
+               <l>Who, to the <hi>Preſent Pow'r,</hi> are always Foes.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Fawning Crew,</hi> becauſe I bars provide</l>
+               <l>Againſt their growing <hi>Vanities,</hi> and <hi>Pride,</hi>
+               </l>
+               <l>Have publiſhed, by <hi>Fame,</hi> (which is the Lyer)</l>
+               <l>That, my <hi>laſt Lines,</hi> were voted to the fire:</l>
+               <l>As if, <hi>Wiſe men,</hi> a blameful act would do,</l>
+               <l>Becauſe, <hi>miſ-jugding Fools,</hi> would have it ſo:</l>
+               <l>But, I much value not, how I diſpleaſe</l>
+               <l>Such vain, and partial Cenſurers as theſe:</l>
+               <l>For, having learn'd, that <hi>Knaves</hi> and <hi>Fools,</hi> are thoſe</l>
+               <l>Who, to my <hi>Muſings,</hi> are ſtill greateſt Foes,</l>
+               <l>I, now again adventure, maugre them,</l>
+               <l>To deſcant on another <hi>Caſual-Theame</hi>
+               </l>
+               <l>That's offered by the <hi>New Sprung Soveraign Style,</hi>
+               </l>
+               <l>Which lately was indeniz'd in this <hi>Iſle:</hi>
+               </l>
+               <l>And, having ſound what <hi>Providence</hi> will do,</l>
+               <l>There, where that Honour 's, I will honour too;</l>
+               <l>Not heeding, neither greatly taking care,</l>
+               <l>Who thinks I temp'rize, or who angry are:</l>
+               <l>This, was my <hi>temper</hi> known, when I was yonger;</l>
+               <l>And, (as I older grow) it groweth ſtronger.</l>
+            </lg>
+            <lg>
+               <l>Our needleſs <hi>Novelties,</hi> approve I not;</l>
+               <l>Nor on <hi>Antiquities,</hi> did ever dote,</l>
+               <l>Which are not uſeful; nor, is 't my intent</l>
+               <l>To cavil, about things <hi>indifferent;</hi>
+               </l>
+               <l>But would have ev'ry Soul, preſerv'd as free,</l>
+               <l>As I my ſelf, deſirous am to be:</l>
+               <l>And, therefore, when I have declar'd my minde,</l>
+               <l>Let all men Cenſure, as they ſtand inclinde.</l>
+            </lg>
+            <lg>
+               <l>Some, <hi>miſ-advis'd,</hi> or, ſome <hi>deluded friends,</hi>
+               </l>
+               <l>(And, ſome, concealing <hi>miſ-directed ends</hi>
+               </l>
+               <l>With fair <hi>Pretendings</hi>) would have laid aſide</l>
+               <l>This <hi>Title;</hi> and, his <hi>Highneſs</hi> digniſide,</l>
+               <pb n="3" facs="tcp:170092:8"/>
+               <l>With what the <hi>Jews,</hi> imprudently, once, choſe;</l>
+               <l>Or, what the <hi>Germanes,</hi> on their CHIEF impoſe:</l>
+               <l>Not heeding, peadventure, what Offence</l>
+               <l>It had occaſion'd, againſt <hi>Providence;</hi>
+               </l>
+               <l>Nor, of what <hi>Benefits,</hi> it may deprive</l>
+               <l>Both <hi>Him,</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>s,</hi> if their <hi>Deſigne</hi> ſhould thrive.</l>
+               <l>Therefore, I offer up this <hi>Vindication,</hi>
+               </l>
+               <l>Of what ſeems yet approv'd of by this <hi>Nation:</hi>
+               </l>
+               <l>Which, (though it may a Vanity appear,</l>
+               <l>To thoſe, who know not, what things proper are,</l>
+               <l>Nor what is uſeful) ſhall, by what ſucceeds,</l>
+               <l>Shew, how much, this <hi>Age</hi> theſe <hi>Expreſſions</hi> needs;</l>
+               <l>And, have <hi>effects,</hi> which may to others be</l>
+               <l>Of much advantage; though, of none to me.</l>
+            </lg>
+            <lg>
+               <l>Did I not gheſs at what our <hi>Eagle</hi> flyes,</l>
+               <l>And to what Heights, I muſt advance mine eyes,</l>
+               <l>To heed in what tranſcendent <hi>Sphere</hi> he goes;</l>
+               <l>I might have ſought him among <hi>Kites</hi> and <hi>Crows;</hi>
+               </l>
+               <l>And call'd them by his <hi>Name;</hi> or, elſe, to <hi>Him,</hi>
+               </l>
+               <l>Communicated, what belongs to <hi>them,</hi>
+               </l>
+               <l>As others would have done; and, loſt the view</l>
+               <l>Of things that <hi>are,</hi> and, things that will <hi>enſue.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Knew I not, alſo, that, to <hi>new Creations,</hi>
+               </l>
+               <l>There do belong <hi>peculiar Appellations,</hi>
+               </l>
+               <l>To keep things from <hi>Confuſion;</hi> I, perchance,</l>
+               <l>(Deluded by Self-love, or Ignorance,</l>
+               <l>Yet blinding others) might have prized more</l>
+               <l>Thoſe <hi>Attributes,</hi> thought glorious heretofore;</l>
+               <l>And been as violent, to have reſtor'd</l>
+               <l>Thoſe <hi>Titles,</hi> which the <hi>Vulgar</hi> have ador'd:</l>
+               <l>For, I envie not, that men ſhould beſtow</l>
+               <l>The higheſt <hi>Titles,</hi> where moſt <hi>Worth,</hi> they know.</l>
+            </lg>
+            <lg>
+               <l>But, I heed, that, when <hi>Things</hi> and <hi>Names</hi> agree,</l>
+               <l>And, that, when joyn'd by <hi>Providence</hi> they be,</l>
+               <pb n="4" facs="tcp:170092:9"/>
+               <l>There 's ſomewhat in it, of more <hi>Conſequence</hi>
+               </l>
+               <l>Then all men, at firſt ſight, collect from thence:</l>
+               <l>Eſpecially, when <hi>old Names,</hi> may obſtruct</l>
+               <l>Th' <hi>effects,</hi> which changing of a <hi>Name</hi> product,</l>
+               <l>As in this preſent caſe; which, ſome, that have</l>
+               <l>More <hi>Wit</hi> then <hi>Grace,</hi> do well enough perceive.</l>
+            </lg>
+            <lg>
+               <l>Why, then, ſhould we deſire again that <hi>Thing,</hi>
+               </l>
+               <l>Which, formerly, theſe <hi>Nations</hi> call'd a <hi>King?</hi>
+               </l>
+               <l>Or, ſo much as the <hi>Name</hi> of that retain,</l>
+               <l>To which, we long in bondage did remain?</l>
+               <l>As if it had bewitch'd us, ſtill, to bear</l>
+               <l>Some <hi>mark</hi> of that, whereby inthral'd we were?</l>
+               <l>And, which did by <hi>relapſe</hi> (do what we could)</l>
+               <l>Corrupt, ſtill, into what it was of <hi>Old?</hi>
+               </l>
+               <l>Why ſhould we court it now? whilſt on us lies</l>
+               <l>The heavie burthens, which their <hi>Tyrannies</hi>
+               </l>
+               <l>Occaſion'd? and, before the wounds are cur'd,</l>
+               <l>Which, we, in caſting off thoſe Chains, endur'd?</l>
+               <l>Or, why on him who hath our <hi>Sov'reign Power,</hi>
+               </l>
+               <l>Should we beſtow the Stile of <hi>Emperour?</hi>
+               </l>
+               <l>A <hi>drooping Title,</hi> ſhuffled off and on,</l>
+               <l>Till it hath ſcarcely <hi>Place</hi> to reſt upon,</l>
+               <l>Or <hi>Perſon,</hi> which at this day owns the ſame,</l>
+               <l>According to the Grandeur of that <hi>Name?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If, they, who gave him firſt his <hi>Stile</hi> and <hi>Pow'r,</hi>
+               </l>
+               <l>That now protecteth, were his friends, and our,</l>
+               <l>And, meant thereby to honour <hi>
+                     <g ref="char:V">Ʋ</g>s,</hi> and <hi>Him;</hi>
+               </l>
+               <l>Why, now ſhould we their <hi>Noble Gift</hi> contemn?</l>
+               <l>Why by the name of <hi>King,</hi> ſhould we now call him,</l>
+               <l>Which is below the <hi>Honours,</hi> that befall him;</l>
+               <l>And makes him to be rather <hi>leſs</hi> then <hi>greater,</hi>
+               </l>
+               <l>(As in himſelf) and rather <hi>worſe</hi> then <hi>better</hi>
+               </l>
+               <l>As to his <hi>People?</hi> For, it renders voyd</l>
+               <l>The <hi>Dignity</hi> conferr'd; and, now enjo'd.</l>
+               <pb n="5" facs="tcp:170092:9"/>
+               <l>At beſt, it mixeth with it, but as <hi>Clay</hi>
+               </l>
+               <l>With <hi>Iron,</hi> which, both takes the <hi>ſtrength</hi> away,</l>
+               <l>And <hi>value</hi> of it: adding thereunto,</l>
+               <l>Nothing, but what that <hi>ſtructure</hi> may undo.</l>
+               <l>It cracks the <hi>Inſtrument,</hi> which doth inveſt</l>
+               <l>Him in his <hi>Pow'r;</hi> and lames his <hi>Intereſt:</hi>
+               </l>
+               <l>Yea, and diſables him, to proſecute</l>
+               <l>That <hi>Duty,</hi> whereto, it did him depute.</l>
+               <l>It croſſeth the deſignes of <hi>Providence.</hi>
+               </l>
+               <l>It will deprive him ev'n of that <hi>Defence</hi>
+               </l>
+               <l>Which ſeems intended; and, will him expoſe</l>
+               <l>To all the purpos'd <hi>Cavils</hi> of his <hi>Foes.</hi>
+               </l>
+               <l>It wooes him from that <hi>Principle,</hi> whereon</l>
+               <l>His <hi>Safety</hi> ſtands, to lean and reſt upon</l>
+               <l>A <hi>Pinaclc,</hi> which totters under all,</l>
+               <l>Who do aſcend it; and, portends a <hi>Fall.</hi>
+               </l>
+               <l>In brief, it many ways, expoſeth him</l>
+               <l>To <hi>Dangers,</hi> which my ſight (though ſomwhat dim)</l>
+               <l>Better, it may be, can foreſee, then ſome</l>
+               <l>Who do ſupply a more <hi>perſpicuous Room.</hi>
+               </l>
+               <l>It giveth <hi>ſhells</hi> for <hi>kernels;</hi> and, the <hi>ſhade</hi>
+               </l>
+               <l>Of that which he, before, in <hi>eſſence</hi> had.</l>
+               <l>And, if by others flatt'ries, or, by ought,</l>
+               <l>Which may to that end riſe from his own thought,</l>
+               <l>He waves this <hi>Title,</hi> for the beſt of thoſe</l>
+               <l>The <hi>World</hi> admires; he, therewithal hath choſe</l>
+               <l>His <hi>Portion</hi> in the <hi>world;</hi> and will, at laſt,</l>
+               <l>Prove like to them, with whom his <hi>lot</hi> is caſt.</l>
+            </lg>
+            <lg>
+               <l>Some of the <hi>Long-robe,</hi> to advance their Trade,</l>
+               <l>And others, that, an Inlet might be made</l>
+               <l>To what they hope for (and, perhaps contrive</l>
+               <l>In ſecret) our <hi>Old Title</hi> would revive;</l>
+               <l>Becauſe, from <hi>Kingſhip</hi> they have hope to draw</l>
+               <l>Advantage by the <hi>letter of our Law,</hi>
+               </l>
+               <pb n="6" facs="tcp:170092:10"/>
+               <l>To all his <hi>Subſtitutes,</hi> who govern by</l>
+               <l>That <hi>Name,</hi> ſufficient to indempnify</l>
+               <l>Them, both in their <hi>Eſtates,</hi> and <hi>Perſons,</hi> from</l>
+               <l>Thoſe hazards, which might elſe upon them come;</l>
+               <l>If, <hi>He,</hi> the <hi>Supreme Pow'r</hi> ſhould repoſſeſs</l>
+               <l>Whom GOD remov'd. But, neither more, nor leſs,</l>
+               <l>Will they be <hi>priviledged,</hi> whether he</l>
+               <l>
+                  <hi>King,</hi> or <hi>Protector,</hi> ſhall inſtiled be.</l>
+               <l>Nor can a <hi>Name</hi> of novel Inſtitution,</l>
+               <l>Which in it ſelf implies no diminution</l>
+               <l>Of <hi>real Pow'r</hi> (but rather a ſupply)</l>
+               <l>Diminiſh ought of his Authority</l>
+               <l>That <hi>Rules in Chief;</hi> ſince, to him pertinent</l>
+               <l>(Ev'n of due right) is all enablement</l>
+               <l>That 's neceſſary to effect thoſe ends,</l>
+               <l>Which <hi>Government,</hi> eſſentially intends.</l>
+            </lg>
+            <lg>
+               <l>For, our PROTECTOR is not ſuch a one,</l>
+               <l>As that, whereby we did ſupport the <hi>Throne,</hi>
+               </l>
+               <l>In Non-age of a <hi>King,</hi> (as ſome conceive)</l>
+               <l>But, that, which to his <hi>Highneſs</hi> doth derive,</l>
+               <l>As abſolute, and as <hi>Supreme a Pow'r</hi>
+               </l>
+               <l>As that of <hi>Kingſhip,</hi> or of <hi>Emperour,</hi>
+               </l>
+               <l>Which arrogates no more, then may ſubſiſt,</l>
+               <l>With GOD's, and with his <hi>People's Interest.</hi>
+               </l>
+               <l>And, be it known, (though ſome think otherwiſe)</l>
+               <l>(Whoſe Judgement, we in many matters prize)</l>
+               <l>That by a <hi>King,</hi> our Laws mean not alone,</l>
+               <l>That <hi>Name,</hi> but, alſo that, which fills the <hi>Throne,</hi>
+               </l>
+               <l>Be it a <hi>King, a Queen,</hi> or <hi>Parliament,</hi>
+               </l>
+               <l>Or, whatſoever elſe, doth repreſent</l>
+               <l>The <hi>Supreme Pow'r:</hi> And, that, each <hi>Attribute</hi>
+               </l>
+               <l>Or <hi>Priviledge,</hi> which <hi>Statute-laws</hi> impute</l>
+               <l>To Pow'rs in being, when they firſt were made,</l>
+               <l>Is (in each <hi>Change</hi>) with ev'ry force it had,</l>
+               <pb n="7" facs="tcp:170092:10"/>
+               <l>Transferred <hi>thither,</hi> and, to <hi>that,</hi> wherein</l>
+               <l>The <hi>Supreme Pow'r</hi> eſſentially is ſeen</l>
+               <l>To <hi>act</hi> and to <hi>reſide:</hi> (though in the <hi>Name,</hi>
+               </l>
+               <l>Or other <hi>Accidents,</hi> we change the ſame.)</l>
+               <l>For, to thoſe <hi>Laws,</hi> although ſome violence</l>
+               <l>Seem'd to be offer'd, in the <hi>lit'ral ſence,</hi>
+               </l>
+               <l>When here a <hi>Woman</hi> raign'd; no wiſe-man thought</l>
+               <l>The <hi>eſſence</hi> of the <hi>Laws</hi> tranſgreſs'd in ought,</l>
+               <l>Becauſe ſhe was no <hi>King:</hi> nor will, of that,</l>
+               <l>The Title of <hi>Protector</hi> ought abate.</l>
+               <l>And, they, who may by nice <hi>diſtinguiſhings,</hi>
+               </l>
+               <l>Or Terms, impos'd indiff'rently on <hi>Things,</hi>
+               </l>
+               <l>Or <hi>Perſons,</hi> be unwiſely tempted from</l>
+               <l>
+                  <hi>Realities;</hi> will much deceiv'd become</l>
+               <l>In what they hope for: and, when thought they are</l>
+               <l>
+                  <hi>Moſt ſafe,</hi> be taken in an <hi>unſeen ſnare.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When once a <hi>Supreme Pow'r</hi> is conſtituted,</l>
+               <l>Submitted to, and ſhall be ſuch reputed,</l>
+               <l>Without reſiſtance, or a <hi>Proteſtation</hi>
+               </l>
+               <l>Againſt it made in <hi>Publike,</hi> by that <hi>Nation</hi>
+               </l>
+               <l>Whom it concerns, (or by ſome part at leaſt,</l>
+               <l>Conſiderable, claiming <hi>Intereſt,</hi>
+               </l>
+               <l>Or <hi>ſhare</hi> therein, having <hi>enablement</hi>
+               </l>
+               <l>Likewiſe to guard thoſe, who thereto aſſent)</l>
+               <l>Such <hi>Conſtitution,</hi> (and the <hi>Being,</hi> what</l>
+               <l>It ſeems to be) gives it not onely <hi>that,</hi>
+               </l>
+               <l>But ev'ry other <hi>Right,</hi> which doth inveſt</l>
+               <l>With <hi>real Pow'r;</hi> whether, it be expreſt</l>
+               <l>By <hi>Law,</hi> or not; and virtually makes void</l>
+               <l>All <hi>Laws,</hi> whereby <hi>ſuch Pow'r</hi> may be deſtroy'd;</l>
+               <l>Until <hi>another Pow'r,</hi> that is more able,</l>
+               <l>Removeth it: And, then, as warrantable</l>
+               <l>
+                  <hi>That,</hi> thenceforth grows, as long, as it doth reign,</l>
+               <l>And, actually, a <hi>Being</hi> doth retain.</l>
+               <pb n="8" facs="tcp:170092:11"/>
+               <l>Provided, that ſuch <hi>Pow'rs</hi> do neither ſwerve</l>
+               <l>From <hi>Juſtice,</hi> nor deſtroy, what to preſerve</l>
+               <l>They were ordain'd; nor leave a <hi>private wrong</hi>
+               </l>
+               <l>Unrecompenſed quite (or over-long)</l>
+               <l>When they are forced to endamage <hi>ſome,</hi>
+               </l>
+               <l>That, <hi>many,</hi> may not to deſtruction come.</l>
+            </lg>
+            <lg>
+               <l>And, all they, who to ſuch a <hi>Pow'r</hi> ſubmit,</l>
+               <l>(Or, for the <hi>Common Peace,</hi> act under it)</l>
+               <l>Whilſt it continues, merit no juſt blame,</l>
+               <l>Howe'er, that <hi>Pow'r,</hi> to be a <hi>Pow'r</hi> became;</l>
+               <l>So they, at firſt, conſpired not with <hi>thoſe</hi>
+               </l>
+               <l>By whoſe unrighteous actings, it aroſe:</l>
+               <l>For, GOD himſelf, commands us to obay</l>
+               <l>The <hi>Pow'rs that are;</hi> not queſtioning <hi>what way</hi>
+               </l>
+               <l>They were acquir'd. His <hi>Son,</hi> whilſt here on earth,</l>
+               <l>He did reſide, (although <hi>true King</hi> by birth)</l>
+               <l>Paid Tribute to th' <hi>Uſurper,</hi> that, he might</l>
+               <l>Advance GODS work, by waving his own <hi>right.</hi>
+               </l>
+               <l>His <hi>Followers,</hi> taught this doctrine; yea, did teach</l>
+               <l>By <hi>Practice,</hi> that which they by <hi>word</hi> did preach.</l>
+               <l>And did ſubmit for <hi>Conſcience ſake,</hi> ev'n when</l>
+               <l>The <hi>Sov'raign Pow'r</hi> was graſp'd by <hi>worſt of men,</hi>
+               </l>
+               <l>And got by <hi>baſeſt means;</hi> which, to this day,</l>
+               <l>Became a <hi>Guide,</hi> to many in that <hi>way,</hi>
+               </l>
+               <l>Which, elſe, had doubtful been: And, had we not</l>
+               <l>This <hi>Rule</hi> to walk by, through GODS mercy got,</l>
+               <l>
+                  <hi>Mankinde</hi> would be deſtroy'd: for, by our <hi>ſiding,</hi>
+               </l>
+               <l>With this, or with that <hi>Faction;</hi> by <hi>dividing,</hi>
+               </l>
+               <l>And <hi>ſubdividing Pow'rs,</hi> as <hi>Malice, Love.</hi>
+               </l>
+               <l>
+                  <hi>Pride, Envie,</hi> or <hi>Self-interest</hi> may move,</l>
+               <l>All would be torn in pieces; and no <hi>Peace,</hi>
+               </l>
+               <l>Be ſetled, till <hi>Mankinde,</hi> to be, ſhould ceaſe.</l>
+            </lg>
+            <lg>
+               <l>Why then ſhould any ſo imprudent grow?</l>
+               <l>Or rather, why ſo mad? (for they are ſo)</l>
+               <pb n="9" facs="tcp:170092:11"/>
+               <l>Who, when they might unblamefully poſſeſs</l>
+               <l>Their lives and portions, in ſafe <hi>Quietneſs,</hi>
+               </l>
+               <l>Will, unconſtrained, loſe their ſweet enjoying</l>
+               <l>Of what they have, and venture the deſtroying</l>
+               <l>Of all that 's dear unto them, to pull down</l>
+               <l>A <hi>fixed Power?</hi> and, ſet up one unknown?</l>
+               <l>That will be, or that may (at leaſt) be worſe?</l>
+               <l>And, both on them, and others, bring the Curſe</l>
+               <l>Of <hi>All-devouring War?</hi> yea, and perchance,</l>
+               <l>A <hi>Family,</hi> or <hi>Perſon,</hi> here advance,</l>
+               <l>Who, either will not heed their <hi>ſervices,</hi>
+               </l>
+               <l>Or elſe forget them, when they get their <hi>Prize?</hi>
+               </l>
+               <l>Or (which is worſe) requite at laſt, with ill</l>
+               <l>Their coſt, their pains, their hazards, &amp; Good-will?</l>
+               <l>And leave them to the ſpights and ſcorns of thoſe</l>
+               <l>Whom they, <hi>for their ſakes,</hi> did at firſt oppoſe?</l>
+               <l>For ſuch things I have ſeen; ev'n <hi>Traytors</hi> made</l>
+               <l>Their <hi>Favourites,</hi> whom they would have betray'd;</l>
+               <l>And, thoſe caſt out of Favour, without Reaſon,</l>
+               <l>Whoſe <hi>faithfulneſs,</hi> preſerv'd them from their <hi>treaſon.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Why then ſhould we permit <hi>Diſcretions</hi> eyes</l>
+               <l>To be deceiv'd with Cheating <hi>Fallacies?</hi>
+               </l>
+               <l>Why then ſhould we of <hi>Scarcrows</hi> be afraid?</l>
+               <l>Or on <hi>Foundations,</hi> by GODS own hand laid,</l>
+               <l>Rebuild again old <hi>Babylon?</hi> or fix</l>
+               <l>To <hi>Sion</hi>'s firm ſtones, her untemper'd <hi>bricks?</hi>
+               </l>
+               <l>Why, when the work of God is both in <hi>Name,</hi>
+               </l>
+               <l>And in the <hi>Thing,</hi> of one <hi>Piece,</hi> and the <hi>ſame,</hi>
+               </l>
+               <l>Should <hi>Humane Policie</hi> preſume to adde</l>
+               <l>Her Trimmings? as if he miſtaken had</l>
+               <l>His purpoſe? Or, as if he had forgot</l>
+               <l>What <hi>Title,</hi> beſt became the <hi>Pow'r</hi> and <hi>lot</hi>
+               </l>
+               <l>Which was conferr'd on him, to whom, of late,</l>
+               <l>The <hi>Supreme Seat,</hi> it pleas'd him to tranſlate,</l>
+               <pb n="10" facs="tcp:170092:12"/>
+               <l>From thoſe who had abus'd it? For, that <hi>Change</hi>
+               </l>
+               <l>(Although irregular it ſeem'd, and ſtrange)</l>
+               <l>Is not of <hi>Man,</hi> but GOD; though men have bin</l>
+               <l>Dull, and imperfect Inſtruments therein:</l>
+               <l>And, 't will eſtabliſh'd be; if he that bears</l>
+               <l>The <hi>Scepter</hi> ſhuns <hi>ungodly Counſellors;</hi>
+               </l>
+               <l>Makes not a wilful ſtand in <hi>ſinners ways,</hi>
+               </l>
+               <l>Nor to the <hi>Scorners Throne,</hi> himſelf ſhall raiſe.</l>
+               <l>But if this <hi>Title</hi> meerly did depend</l>
+               <l>On <hi>humane prudence,</hi> we ſhould much offend</l>
+               <l>Againſt her <hi>Principles,</hi> by vary'ng from</l>
+               <l>That Reſolution whereto we are come.</l>
+            </lg>
+            <lg>
+               <l>Why then ſhould we, if now we <hi>Free-men</hi> are,</l>
+               <l>(And by the world without, reputed were</l>
+               <l>A world within our ſelves) be bound up to</l>
+               <l>Their <hi>Cuſtoms,</hi> who have nought with us to do?</l>
+               <l>Since, 't will be thereby tacitely confeſt,</l>
+               <l>We are not <hi>Maſters</hi> of that <hi>Interest</hi>
+               </l>
+               <l>Which we do claim; nor can of right create</l>
+               <l>(As well as any other <hi>Supreme State</hi>)</l>
+               <l>New <hi>Dignities;</hi> or make new <hi>Preſidents,</hi>
+               </l>
+               <l>When Time brings forth <hi>occaſioned Events.</hi>
+               </l>
+               <l>For, this inferr'd, we granted, or believ'd,</l>
+               <l>That, we our <hi>chief Ennoblements</hi> receiv'd</l>
+               <l>From <hi>other States;</hi> and, are oblig'd become</l>
+               <l>Thoſe <hi>Rags of Honour,</hi> onely, to aſſume,</l>
+               <l>Which they have worn, though ſoyled and diſgrac'd</l>
+               <l>By thoſe, on whom they were unjuſtly plac'd.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Title</hi> giveth no eſſential <hi>Fame;</hi>
+               </l>
+               <l>It is the <hi>Man,</hi> that dignifies the <hi>Name.</hi>
+               </l>
+               <l>
+                  <hi>Tyrant,</hi> was thought an honourable <hi>Stile,</hi>
+               </l>
+               <l>Until, <hi>Oppreſſors</hi> did the ſame defile.</l>
+               <l>By luſtful Inſolence, in <hi>Tarquin's</hi> race,</l>
+               <l>
+                  <hi>Kingſhip,</hi> at <hi>Rome,</hi> firſt fell into diſgrace,</l>
+               <pb n="11" facs="tcp:170092:12"/>
+               <l>And, 't was from thence exploded with ſuch hate,</l>
+               <l>That, though the <hi>King of Romanes,</hi> is of late,</l>
+               <l>Made <hi>Titular;</hi> no <hi>Romane,</hi> to this day,</l>
+               <l>Submits thereto, nor in <hi>Rome</hi> bears it ſway.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Baſis,</hi> of true <hi>Supreme honour</hi> ſtands</l>
+               <l>Not upon <hi>abſolute,</hi> but, <hi>Juſt Commands.</hi>
+               </l>
+               <l>A <hi>Prince,</hi> doth his Pre-eminence receive,</l>
+               <l>From <hi>Vertue,</hi> not from his <hi>Appellative;</hi>
+               </l>
+               <l>And <hi>Righteouſneſs,</hi> addes more to his renown,</l>
+               <l>Then <hi>Conqueſt, Title, Scepter,</hi> and a <hi>Crown.</hi>
+               </l>
+               <l>As quickly will appear, when he ſhall want</l>
+               <l>That <hi>Dignity,</hi> and grows exorbitant.</l>
+            </lg>
+            <lg>
+               <l>An honourable Title is confeſt</l>
+               <l>To be a fair Engagement, or at beſt,</l>
+               <l>An uſeful <hi>Pledge,</hi> and ſome <hi>Memento</hi> too,</l>
+               <l>Of what the Owner is oblig'd to do:</l>
+               <l>But, of it ſelf, on him that fills the place</l>
+               <l>Of <hi>Pow'r,</hi> it doth confer, nor <hi>Worth,</hi> nor <hi>Grace.</hi>
+               </l>
+               <l>It is an <hi>Ornament,</hi> that priz'd ſhould be,</l>
+               <l>And, alſo, that which may, in ſome degree</l>
+               <l>Illuſtrate him that <hi>wears it;</hi> if he frame</l>
+               <l>His Actions anſwerable to the ſame,</l>
+               <l>According to the purpoſes of thoſe,</l>
+               <l>Who did on him, the <hi>Sov'raignty</hi> impoſe.</l>
+               <l>And, that, which on our <hi>Chief</hi> hath been of late</l>
+               <l>Conferr'd, (and is confirm'd now by our <hi>State</hi>)</l>
+               <l>Is more ſignificant, to that intent,</l>
+               <l>Then All, whereof there's any <hi>Preſident,</hi>
+               </l>
+               <l>Throughout the Univerſe; unleſs it be</l>
+               <l>In ſome <hi>far Climate,</hi> yet unknown to me.</l>
+            </lg>
+            <lg>
+               <l>To him, who hath obtain'd a <hi>Supreme Pow'r,</hi>
+               </l>
+               <l>Whether <hi>Duke, Prince,</hi> a <hi>King,</hi> or <hi>Emperour,</hi>
+               </l>
+               <l>
+                  <hi>Sophy, Grand Seignior, Pope,</hi> (or what <hi>Stile</hi> elſe</l>
+               <l>We place on him, who, other men excels)</l>
+               <pb n="12" facs="tcp:170092:13"/>
+               <l>He by the greateſt of them, is poſſeſt</l>
+               <l>Of no more <hi>Sov'raignty,</hi> then by the leaſt.</l>
+               <l>For, all their <hi>Titles</hi> are equivalent</l>
+               <l>According to their <hi>Seigniories</hi> extent;</l>
+               <l>Becauſe, he that dependeth upon none,</l>
+               <l>Is made as abſolute, by any One</l>
+               <l>Of thoſe, or other <hi>Titles,</hi> as by all;</l>
+               <l>Which will appear, when I diſcover ſhall</l>
+               <l>How much, or little, each of them contains,</l>
+               <l>Of that, which to <hi>Supremacie</hi> pertains;</l>
+               <l>And, when it is conſidered <hi>what</hi> they are</l>
+               <l>Who, as chief <hi>Soveraigns,</hi> theſe Titles, wear.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Duke,</hi> is but a <hi>Leader; ſupreme Prince,</hi>
+               </l>
+               <l>Is one who claims the <hi>chief Pre-eminence;</hi>
+               </l>
+               <l>A <hi>King,</hi> is he, who hath a <hi>Ruling Pow'r;</hi>
+               </l>
+               <l>
+                  <hi>Command,</hi> denominates an <hi>Emperour;</hi>
+               </l>
+               <l>
+                  <hi>Sophie</hi> (the <hi>Perſian</hi> Title) ſignifies</l>
+               <l>A <hi>Perſon,</hi> who, in governing is wiſe;</l>
+               <l>
+                  <hi>Grand Seignior</hi> (which the <hi>Turks</hi> ambitiouſneſs</l>
+               <l>Now arrogates) doth <hi>Power in Chief</hi> expreſs;</l>
+               <l>The ſtile of <hi>Pope,</hi> implies a <hi>Fatherhood,</hi>
+               </l>
+               <l>And more relateth to a <hi>Peoples</hi> good,</l>
+               <l>Then any of the former, though as little</l>
+               <l>He doth conform his <hi>Actings</hi> to his <hi>Title:</hi>
+               </l>
+               <l>But, all thoſe Titles want that which compleats</l>
+               <l>A perſon meriting, the <hi>Supreme Seats,</hi>
+               </l>
+               <l>Except this laſt, whoſe <hi>Claimers</hi> (ſwerving from</l>
+               <l>What their <hi>high Stile</hi> implieth) are become</l>
+               <l>
+                  <hi>Stepfathers</hi> unto thoſe, whom they pretend</l>
+               <l>To father, foſter, cheriſh, and defend;</l>
+               <l>And, GOD as well for their Deliverance,</l>
+               <l>As our, ſhall this <hi>Protectors</hi> pow'r advance,</l>
+               <l>(Or his Succeſſors) till it quite ſets free</l>
+               <l>All <hi>Nations,</hi> who, to them enſlaved be;</l>
+               <pb n="13" facs="tcp:170092:13"/>
+               <l>Avenging all the blood which they have ſhed;</l>
+               <l>(The blood of <hi>Saints</hi> whom they have maſſacred</l>
+               <l>Of late, or heretofore:) yea, look how far</l>
+               <l>The <hi>Pow'rs</hi> of <hi>GOG,</hi> and <hi>MAGOG,</hi> ſtretched are;</l>
+               <l>And whereſoe'er thoſe <hi>Catholike pretenders</hi>
+               </l>
+               <l>Oppreſs; theſe ſhall be <hi>Catholike Defenders</hi>
+               </l>
+               <l>Of men oppreſſed; and, GOD, to that end,</l>
+               <l>Shall univerſally this <hi>Pow'r</hi> extend.</l>
+               <l>It hath already (as that <hi>Angel</hi> did,</l>
+               <l>Of whom <hi>John</hi> wrote) to that intent, beſtrid</l>
+               <l>A great part of the world; and one foot ſtands</l>
+               <l>upon the <hi>Seas,</hi> the other on the <hi>Lands.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But, whither, do my <hi>Contemplations</hi> fly?</l>
+               <l>I may, perchance, unſeal a <hi>Myſtery</hi>
+               </l>
+               <l>Before the time; my <hi>Muſe,</hi> therefore, deſcend,</l>
+               <l>And, proſecute the Subject I intend;</l>
+               <l>Thereby, to further that, which I conceive</l>
+               <l>Is drawing neer, and few will yet believe.</l>
+            </lg>
+            <lg>
+               <l>None, of the other <hi>Titles,</hi> bring to minde</l>
+               <l>All <hi>Duties,</hi> whereto <hi>Princes,</hi> are enjoyn'd;</l>
+               <l>And, ſuch as owe them, frequently are caſt,</l>
+               <l>Among the vile, and infamous, at laſt;</l>
+               <l>Becauſe, they nor eſſential retain</l>
+               <l>Within themſelves, the <hi>Pow'r,</hi> thoſe <hi>Titles</hi> fain,</l>
+               <l>Nor any of thoſe <hi>Vertues,</hi> which aſſure</l>
+               <l>The <hi>Dignity,</hi> they formally procure.</l>
+               <l>But, if, that any <hi>Title</hi> under heav'n,</l>
+               <l>Hath in times paſt, or, in this age been giv'n,</l>
+               <l>That, truely magnifies; and, may conduce</l>
+               <l>To bring thoſe <hi>Vertues,</hi> unto minde and uſe,</l>
+               <l>Which dignifie the <hi>Perſons;</hi> it is that</l>
+               <l>Which <hi>Providence</hi> conferred hath of late,</l>
+               <l>Upon our <hi>Governour.</hi> For, though it ſeem</l>
+               <l>Through <hi>Novelty,</hi> not grown up to eſteem,</l>
+               <pb n="14" facs="tcp:170092:14"/>
+               <l>Yet, (if, unhappily, there be not wanting,</l>
+               <l>Concomitances, uſeful to its planting)</l>
+               <l>It will be reverenc'd, in fartheſt <hi>Climes,</hi>
+               </l>
+               <l>And, honourable through all <hi>future times,</hi>
+               </l>
+               <l>(Beyond compare;) when, <hi>Kings</hi> and <hi>Emperours</hi>
+               </l>
+               <l>Hav loſt their <hi>Names,</hi> their <hi>Kingdoms,</hi> &amp; their <hi>Pow'rs:</hi>
+               </l>
+               <l>And, until here, that <hi>King of kings</hi> doth raign,</l>
+               <l>Whoſe Glory, heav'n and earth, cannot contain.</l>
+            </lg>
+            <lg>
+               <l>This glorious <hi>Title,</hi> hath in it expreſt,</l>
+               <l>No ſtamp of <hi>Self-relation,</hi> like the reſt;</l>
+               <l>But, marks forth <hi>One,</hi> (as if from heav'n ſent down)</l>
+               <l>Who ſeeks his <hi>Peoples</hi> weal, more then his <hi>own.</hi>
+               </l>
+               <l>It is the chiefeſt of GOD's <hi>Attributes</hi>
+               </l>
+               <l>Which he to thoſe men, whom he here deputes</l>
+               <l>Communicates; and ought, therefore, by none</l>
+               <l>To be aſſum'd, but <hi>God-like</hi> men, alone,</l>
+               <l>Who in their hearts, have purpoſed, to be</l>
+               <l>(At leaſt, by <hi>Imitation</hi>) ſuch as <hi>He:</hi>
+               </l>
+               <l>And, ready, to contribute in his ſtead,</l>
+               <l>Due ſuccours to all <hi>Suppliants</hi> in their Need.</l>
+            </lg>
+            <lg>
+               <l>It is a <hi>Name</hi> of <hi>mercy</hi> and <hi>affection,</hi>
+               </l>
+               <l>Which, not alone engageth to <hi>Protection,</hi>
+               </l>
+               <l>But, likewiſe to a ſtrenuous Oppoſition</l>
+               <l>Of <hi>Tyrants, Tyrannies,</hi> and all <hi>Oppreſſion.</hi>
+               </l>
+               <l>For, to be call'd a <hi>Nation</hi> to protect,</l>
+               <l>Implies (at leaſt, in ſome degree) th' effect</l>
+               <l>Of ev'ry <hi>Means,</hi> which may be helpful to</l>
+               <l>Thoſe <hi>Works</hi> which GOD provided <hi>Him</hi> to do;</l>
+               <l>And nobler is, in that reſpect, then thoſe</l>
+               <l>Loud-ſounding <hi>Titles,</hi> which our Fathers choſe:</l>
+               <l>Becauſe, we therein comprehended finde</l>
+               <l>More <hi>Notions,</hi> then in all thoſe <hi>Titles</hi> joyn'd,</l>
+               <l>Which are throughout the whole world, own'd by them,</l>
+               <l>Who do enjoy a <hi>Sov'raign Diadem.</hi>
+               </l>
+            </lg>
+            <pb n="15" facs="tcp:170092:14"/>
+            <lg>
+               <l>
+                  <hi>Conduct, Pre-eminence, Rule,</hi> and <hi>Command,</hi>
+               </l>
+               <l>
+                  <hi>Policie, Grandeur,</hi> (both by Sea and Land)</l>
+               <l>And, that <hi>Paternity,</hi> which they poſſeſs</l>
+               <l>To whom is miſ-imputed <hi>Holineſs,</hi>
+               </l>
+               <l>Are but a <hi>Part,</hi> and that part very little</l>
+               <l>Of what is intimated by this <hi>Title.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For (being well conſider'd) it implies</l>
+               <l>That he, who owns it, ſhould be truly <hi>wiſe,</hi>
+               </l>
+               <l>As well as <hi>politick;</hi> a foe to <hi>Vice;</hi>
+               </l>
+               <l>A friend to <hi>Vertue;</hi> free from <hi>Avarice.</hi>
+               </l>
+               <l>Awful of GOD; affectionate to <hi>Man,</hi>
+               </l>
+               <l>His Welfare ſeeking, by all means he can;</l>
+               <l>
+                  <hi>Stout,</hi> and yet <hi>humble,</hi> in his <hi>Exaltation;</hi>
+               </l>
+               <l>
+                  <hi>Just,</hi> and his <hi>Juſtice,</hi> ſweetning by <hi>Compaſſion;</hi>
+               </l>
+               <l>Due <hi>recompence</hi> to well-<hi>deſervers</hi> giving;</l>
+               <l>Pard'ning the <hi>Penitent,</hi> th' Oppreſt <hi>relieving;</hi>
+               </l>
+               <l>Watchful for all Occaſions how he may</l>
+               <l>Advance his <hi>Peoples</hi> welfare, ev'ry way:</l>
+               <l>As alſo, by what means he may prevent</l>
+               <l>The <hi>Common,</hi> and each <hi>private Detriment;</hi>
+               </l>
+               <l>A hearty Zelot of the <hi>Publike Faith;</hi>
+               </l>
+               <l>By <hi>Deeds</hi> confirming, what in <hi>Words</hi> he ſaith;</l>
+               <l>And, readyer for his <hi>Flocks,</hi> his life to ſtake,</l>
+               <l>Then, of their <hi>Fleſh,</hi> or <hi>Fleece,</hi> a prey to make:</l>
+               <l>Nor to his <hi>own</hi> alone, doth he extend</l>
+               <l>His <hi>Goodneſs;</hi> but ev'n to the worlds far end,</l>
+               <l>Will ſtretch it alſo; as acknowledging</l>
+               <l>All men for Subjects of that <hi>Heav'nly King,</hi>
+               </l>
+               <l>Whom, he but repreſents; and, unto whom</l>
+               <l>He muſt account, when <hi>Audit-day</hi> is come.</l>
+               <l>And, of neceſſity, to <hi>all,</hi> he muſt</l>
+               <l>Be <hi>righteous,</hi> who will to his <hi>own</hi> be juſt;</l>
+               <l>Since, <hi>univerſal Justice,</hi> muſt make ſtrong</l>
+               <l>His Arm, who would defend his own from wrong;</l>
+               <pb n="16" facs="tcp:170092:15"/>
+               <l>And, he who to this <hi>Vertue,</hi> is inclinde,</l>
+               <l>Becomes, as well, a friend to all <hi>Mankinde</hi>
+               </l>
+               <l>As to his <hi>Native People,</hi> when they need</l>
+               <l>
+                  <hi>Protection,</hi> and from Tyrants to be freed.</l>
+            </lg>
+            <lg>
+               <l>This, is a true PROTECTOR; ſuch a one</l>
+               <l>As I deſire, ſhould ever fill the <hi>Throne</hi>
+               </l>
+               <l>Of theſe three <hi>Nations:</hi> And, if he prove ſuch</l>
+               <l>Who governs now, I'll never think it much</l>
+               <l>To ſacrifice my life, and all I have,</l>
+               <l>His <hi>Perſon, Pow'r,</hi> and <hi>Dignity</hi> to ſave</l>
+               <l>From his <hi>Maligners:</hi> whereas, if that he</l>
+               <l>Who rul'd the whole world, were ſo kinde to me,</l>
+               <l>As to advance me to the <hi>ſecond place</hi>
+               </l>
+               <l>Within his <hi>Government;</hi> and when he was</l>
+               <l>Remov'd by death, could, and would ſet me there</l>
+               <l>Where he had ſate; yet, if I certain were</l>
+               <l>His heart ſtood not unfeignedly inclinde</l>
+               <l>To do (as he enablement ſhould finde)</l>
+               <l>The duty of his place; I could not prize</l>
+               <l>His Favours, nor his Greatneſs idolize,</l>
+               <l>Nor truely love him: yet, would ſtill be true</l>
+               <l>Unto his <hi>Pow'r,</hi> and give him all his due.</l>
+            </lg>
+            <lg>
+               <l>This, a PROTECTOR is, according to</l>
+               <l>The meaning of his <hi>Name.</hi> Thus, ſhould he do.</l>
+               <l>This, is that <hi>ſupereminent Degree,</hi>
+               </l>
+               <l>Whereto I ſtrive, that he advanc'd ſhould be</l>
+               <l>Whom I inaugurate; and would hereby</l>
+               <l>Tranſmit, to paſs through all <hi>Poſterity</hi>
+               </l>
+               <l>Among the <hi>Heroes,</hi> (whoſe wide-ſpreading <hi>Fames</hi>
+               </l>
+               <l>Make vulgar <hi>Appellations,</hi> and <hi>New-Names</hi>
+               </l>
+               <l>Grow honourable;) that, both far and neer,</l>
+               <l>This <hi>Title,</hi> high exalted may appear;</l>
+               <l>Until it hath attained an eſteem</l>
+               <l>Beyond all Attributes in former time.</l>
+               <pb n="17" facs="tcp:170092:15"/>
+               <l>
+                  <hi>Room,</hi> therefore; and henceforth let <hi>Names of Pow'r,</hi>
+               </l>
+               <l>Such, as of <hi>Duke, King, Prince,</hi> or <hi>Emperour,</hi>
+               </l>
+               <l>
+                  <hi>Sophie, Grand Seignior;</hi> and that, which they own</l>
+               <l>Who, claim the wearing of a <hi>Triple Crown,</hi>
+               </l>
+               <l>Deſcend; that in their place I may enthrone</l>
+               <l>The Title of PROTECTOR, which in <hi>One</hi>
+               </l>
+               <l>Contains <hi>all,</hi> which, their <hi>Attributes</hi> afford;</l>
+               <l>Yea, all the worlds <hi>grand Titles</hi> in one word:</l>
+               <l>And, ſhall, by what it intimates, direct</l>
+               <l>Till He, who theſe <hi>Dominions</hi> doth protect,</l>
+               <l>Hath by <hi>example,</hi> taught, how to reduce</l>
+               <l>All <hi>Governments</hi> to their intended uſe;</l>
+               <l>Or, broke them into pieces, who, perſiſt</l>
+               <l>To tyrannize, and rant it, as they liſt.</l>
+            </lg>
+            <lg>
+               <l>This, a PROTECTOR is, or ought to be;</l>
+               <l>And, ſuch a one as this, I hope, is He</l>
+               <l>Who now reigns over us; although, as yet</l>
+               <l>(To exerciſe our <hi>faith</hi>) GOD doth permit</l>
+               <l>Some <hi>doubtings,</hi> and ſome few <hi>diſſatisfactions;</hi>
+               </l>
+               <l>Becauſe, we know not of his ſev'ral Actions,</l>
+               <l>The <hi>Grounds</hi> &amp; <hi>Reaſons:</hi> which, were they ſo known</l>
+               <l>To us, as thoſe <hi>Deſignes,</hi> that are our own,</l>
+               <l>Would make, perhaps, theſe <hi>Nations</hi> to believe</l>
+               <l>They ſhould that great <hi>Deliverance</hi> receive</l>
+               <l>Which they expect; and, by his means, receive it,</l>
+               <l>(If they could be perſwaded to believe it.)</l>
+               <l>At leaſt, ſo far forth, as they juſtly can</l>
+               <l>Expect ſo great a <hi>Bleſſing,</hi> by a Man</l>
+               <l>Subject to Frailties; and, who did on him</l>
+               <l>Aſſume that <hi>heavie Burthen,</hi> at that time</l>
+               <l>Wherein, all things were to Confuſion brought;</l>
+               <l>And, wherein, <hi>Contrarieties</hi> were ſought</l>
+               <l>With ſo much violence, that, few, or none</l>
+               <l>Knew what to crave, or what might beſt be done:</l>
+               <pb n="18" facs="tcp:170092:16"/>
+               <l>When, for <hi>this Thing,</hi> one <hi>Faction</hi> madly bawl'd;</l>
+               <l>When, for <hi>much diff'ring things,</hi> another call'd;</l>
+               <l>A third, for ſomewhat, which would quite deſtroy</l>
+               <l>What both the former, craved to enjoy.</l>
+               <l>When ſome <hi>drew back;</hi> when, others on did <hi>hurry</hi>
+               </l>
+               <l>To their <hi>Deſignments,</hi> with a <hi>headſtrong fury:</hi>
+               </l>
+               <l>When, moſt, each others purpoſe did miſtake,</l>
+               <l>Or, of beſt <hi>Meanings,</hi> worſt Conſtruction make,</l>
+               <l>Through weakneſs, or by being prepoſſeſt</l>
+               <l>With <hi>Pride, O'erweening,</hi> or <hi>Self-intereſt:</hi>
+               </l>
+               <l>And, when thoſe <hi>Straights,</hi> and thoſe <hi>Neceſſities,</hi>
+               </l>
+               <l>Which from the <hi>Pow'rs preceding,</hi> did ariſe,</l>
+               <l>Did him to <hi>Arbitrary Acts</hi> enforce,</l>
+               <l>That, things grown much amiſs, might not grow worſe.</l>
+               <l>For, theſe things, make it difficult to know</l>
+               <l>What, really <hi>he is;</hi> what <hi>he would do;</hi>
+               </l>
+               <l>Or, what <hi>he can do,</hi> whilſt our <hi>ſins</hi> and <hi>paſſions</hi>
+               </l>
+               <l>Foment our Strife; or, whilſt <hi>Miſ-applications,</hi>
+               </l>
+               <l>
+                  <hi>Miſ-repreſentings,</hi> or ſuch-like, obſtruct</l>
+               <l>That <hi>Bleſſing,</hi> which GOD's mercy would product.</l>
+            </lg>
+            <lg>
+               <l>If, likewiſe, we conſider'd herewithal,</l>
+               <l>That, when to this great <hi>Charge,</hi> he had this <hi>Call,</hi>
+               </l>
+               <l>It was, when our <hi>Unſetledneſs,</hi> had made it</l>
+               <l>So hazardous, that none elſe would have had it;</l>
+               <l>But ſuch, as, probably, had, ere this day,</l>
+               <l>Thereby, both to their <hi>own Deſignes</hi> made way,</l>
+               <l>And, to our total Ruine: And, when, ſome</l>
+               <l>Who did project, what now to paſs is come,</l>
+               <l>Did not, perhaps, intend ſo much, thereby,</l>
+               <l>To raiſe him to a <hi>Supreme Dignity,</hi>
+               </l>
+               <l>As to enſnare him; and, to mount him to</l>
+               <l>That <hi>eminence,</hi> in hope thereby to do</l>
+               <l>His <hi>Adverſaries</hi> work; and, him at length</l>
+               <l>To weaken, by re-burth'ning him with ſtrength.</l>
+            </lg>
+            <pb n="19" facs="tcp:170092:16"/>
+            <lg>
+               <l>Were this conſider'd; and, therewith, if we</l>
+               <l>Well weigh'd, how great, yet, out <hi>Diſtempers</hi> be;</l>
+               <l>And, what <hi>Neceſſity,</hi> and <hi>Prudence</hi> may</l>
+               <l>Conſtrain him to, in that <hi>untrodden way,</hi>
+               </l>
+               <l>Wherein he marches; that, the <hi>Work</hi> begun,</l>
+               <l>May not, diſhonourably, now be done,</l>
+               <l>Through want of Pow'r; and, bring a ſad return</l>
+               <l>Of <hi>Miſchief,</hi> with an <hi>everlaſting Scorn:</hi>
+               </l>
+               <l>We would believe, his Actions did produce,</l>
+               <l>What, rather, <hi>praiſe</hi> required, then <hi>excuſe.</hi>
+               </l>
+               <l>Yea, by this Obſervation, and by what</l>
+               <l>We know <hi>well done,</hi> we would not judge of <hi>that</hi>
+               </l>
+               <l>We know not yet; and, (by what we diſcern,</l>
+               <l>Without ſuſpect) as perfectly might learn,</l>
+               <l>How, by his <hi>Foot,</hi> a harmleſs <hi>Lamb</hi> to draw,</l>
+               <l>As to deſcribe a <hi>Lion,</hi> by his <hi>Paw.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But, who can us aſſure, that for our <hi>ſin,</hi>
+               </l>
+               <l>Miſ-underſtandings have not raiſed bin</l>
+               <l>'Twixt him and us; whereby, GOD's wrath may bring</l>
+               <l>Thoſe <hi>Miſchiefs</hi> back, we ſuffer'd by a <hi>King?</hi>
+               </l>
+               <l>And, make our <hi>Surgeon,</hi> put us to more pain,</l>
+               <l>Then thoſe late <hi>wounds,</hi> whereof we did complain?</l>
+               <l>What <hi>Peace,</hi> can we expect, if for ſuch Times</l>
+               <l>He was prepar'd, in which <hi>loud-crying Crimes</hi>
+               </l>
+               <l>(Still unrepented of) will not afford,</l>
+               <l>A milder way of Curing, then the <hi>Sword?</hi>
+               </l>
+               <l>Or what reproof deſerves that <hi>Inſtrument,</hi>
+               </l>
+               <l>Who, then, acts that, for which, he forth was ſent?</l>
+            </lg>
+            <lg>
+               <l>If I, ſhould here, thoſe <hi>ſins</hi> enumerate,</l>
+               <l>Which are revived in this Land of late;</l>
+               <l>Yea, and improved, much beyond the Crimes</l>
+               <l>Which I took heed of in my yonger times:</l>
+               <l>(And am perhaps preſerved to be old,</l>
+               <l>That, I, to ſome good purpoſe, might behold</l>
+               <pb n="20" facs="tcp:170092:17"/>
+               <l>The works of GOD and <hi>Men;</hi> and, to this <hi>Nation</hi>
+               </l>
+               <l>Be ſerviceable in my <hi>Generation,</hi>
+               </l>
+               <l>For <hi>Future times:</hi>) It, plainly would appear,</l>
+               <l>What, future Judgements, we might juſtly fear;</l>
+               <l>And, that, it will be to my <hi>Maker</hi>'s praiſe</l>
+               <l>Hereafter, (although ſlighted in theſe days)</l>
+               <l>To have it teſtified on record,</l>
+               <l>How <hi>righteous</hi> he is ſtill, in <hi>deed</hi> and <hi>word;</hi>
+               </l>
+               <l>How merciful, he to theſe <hi>Lands</hi> hath been;</l>
+               <l>Ev'n when, we, him correcting us have ſeen:</l>
+               <l>And, how, in Love, he ſtill proceedeth on,</l>
+               <l>Though, ſtill, we do as ill, as we have done.</l>
+            </lg>
+            <lg>
+               <l>Should I, illuſtrate thoſe <hi>Prevarications,</hi>
+               </l>
+               <l>Thoſe <hi>Vanities,</hi> and thoſe <hi>Abominations,</hi>
+               </l>
+               <l>Which are increas'd, ſince here we did pretend</l>
+               <l>A <hi>Reformation;</hi> and, how ſome offend</l>
+               <l>By groſs <hi>Extravagances,</hi> whoſe falſe Zeal</l>
+               <l>To GOD, to <hi>Juſtice,</hi> &amp; this <hi>Commonweal</hi>
+               </l>
+               <l>Hath made them rich and great: how they could <hi>preach,</hi>
+               </l>
+               <l>And <hi>pray,</hi> till by pretendings, they did catch</l>
+               <l>VVhat they had preach'd &amp; pray'd for; &amp;, how mute</l>
+               <l>They are become, ſince they have reap'd the fruit</l>
+               <l>Of their <hi>Deſignes:</hi> Should I, illuſtrate, how</l>
+               <l>They <hi>counter-act</hi> their <hi>former actings,</hi> now,</l>
+               <l>And fained <hi>Principles:</hi> with how much haſt</l>
+               <l>They follow them, whom their hands forth have caſt,</l>
+               <l>To all exceſs; and, how imprudently</l>
+               <l>They do redintegrate, piece, and comply</l>
+               <l>With thoſe, that would deſtroy them; you, would dread,</l>
+               <l>That, we deſerved to be puniſhed,</l>
+               <l>More then our <hi>Predeceſſors;</hi> and, that <hi>He,</hi>
+               </l>
+               <l>Who ſhould deliver us, our <hi>Scourge</hi> muſt be.</l>
+            </lg>
+            <lg>
+               <l>Curs'd be their <hi>Comments,</hi> who ſhall this apply</l>
+               <l>To <hi>Him,</hi> or <hi>Them,</hi> who in ſincerity</l>
+               <pb n="21" facs="tcp:170092:17"/>
+               <l>Did <hi>preach,</hi> or <hi>pray,</hi> or <hi>act,</hi> in order to</l>
+               <l>What <hi>Providence</hi> inſtructed them to <hi>do,</hi>
+               </l>
+               <l>And was <hi>well done:</hi> But let this be applide,</l>
+               <l>Onely to thoſe, who ſwerved are aſide</l>
+               <l>From pious <hi>Principles,</hi> and ſunk below</l>
+               <l>Thoſe <hi>Vertues,</hi> whereof, they had but the <hi>ſhow.</hi>
+               </l>
+               <l>For, ſuch there be; and, their <hi>Apoſtacies</hi>
+               </l>
+               <l>May, probably, prolong our Miſeries.</l>
+               <l>And, us, of that great happineſs deprive,</l>
+               <l>Which, we, by our PROTECTOR might receive.</l>
+            </lg>
+            <lg>
+               <l>Should it prove ſo, how juſt ſoe'er he were,</l>
+               <l>His <hi>Righteouſneſs,</hi> would not to us appear;</l>
+               <l>Nor is there poſſibility of <hi>Peace</hi>
+               </l>
+               <l>That will endure, till <hi>Wickedneſs</hi> decreaſe;</l>
+               <l>Till <hi>Juſtice</hi> more be priz'd; more care be took</l>
+               <l>Of <hi>Publike Faith;</hi> mens <hi>private faith,</hi> leſs broke;</l>
+               <l>Oppreſſed men more <hi>pitied; ſuccours pray'd,</hi>
+               </l>
+               <l>Not ſo much, and ſo needleſly, delay'd;</l>
+               <l>
+                  <hi>Burthens,</hi> ſuſtained for the preſervation</l>
+               <l>Of <hi>Publike weal,</hi> apportion'd in the <hi>Nation</hi>
+               </l>
+               <l>More equally; and, till men grow more wiſe,</l>
+               <l>To ſee wherein the <hi>Common ſafety</hi> lies.</l>
+               <l>For, till theſe things be done, what Humane pow'r</l>
+               <l>Can ſave us from the Plagues which will devour?</l>
+               <l>Who ſhall ſecure us? or, to what effect,</l>
+               <l>Have we ſet up one Perſon to Protect,</l>
+               <l>Or elſe to govern, or deliver us,</l>
+               <l>From ſwift deſtruction, if it ſtill be thus?</l>
+               <l>What ſhall I ſay? what have we then to do,</l>
+               <l>Save humbly to ſubmit our ſelves unto</l>
+               <l>Some <hi>Courſe,</hi> that may reform what is amiſs;</l>
+               <l>Whilſt <hi>means</hi> thereof, and <hi>time</hi> afforded is;</l>
+               <l>And ſeek, by true Contrition, to revoke</l>
+               <l>The <hi>Doom,</hi> that GOD, may ſuperſede the <hi>ſtroke.</hi>
+               </l>
+            </lg>
+            <pb n="22" facs="tcp:170092:18"/>
+            <lg>
+               <l>The thought of this, hath brought me to a <hi>Pauſe,</hi>
+               </l>
+               <l>And, my <hi>Inſpirer,</hi> now, from me withdraws</l>
+               <l>That <hi>Influence,</hi> whereby I ſhould proceed,</l>
+               <l>On my firſt <hi>Text.</hi> For, here, there may be need</l>
+               <l>Of ſome Digreſſion, to another <hi>ſtrain;</hi>
+               </l>
+               <l>That; what is ſpoken, be not ſaid in vain.</l>
+               <l>Yea, here, (as in ſuch <hi>Themes,</hi> it is my faſhion)</l>
+               <l>A few words more, of <hi>Uſe</hi> and <hi>Exhortation,</hi>
+               </l>
+               <l>
+                  <hi>Precaution,</hi> and <hi>Precation,</hi> I will adde;</l>
+               <l>And, leave it unto thoſe, for whom 'tis made;</l>
+               <l>That, by the worſt Events, which can befal,</l>
+               <l>We may have <hi>Peace;</hi> and, <hi>God,</hi> the Praiſe of all.</l>
+            </lg>
+            <lg>
+               <l>Let us be pleas'd his Pleaſure ſhould be done;</l>
+               <l>And, for the time to come, let ev'ry one</l>
+               <l>Be rather careful, his <hi>own ways</hi> to heed,</l>
+               <l>Then fearful, how <hi>Another</hi> will proceed.</l>
+               <l>Enough, we now our Brethren have oppreſt,</l>
+               <l>Let us, henceforth, afford them, eaſe and reſt;</l>
+               <l>That, GOD, may give us <hi>Peace,</hi> and ſave us from</l>
+               <l>That <hi>Bondage,</hi> which will, elſe, upon us come.</l>
+               <l>Let thoſe, who have occaſioned the Cries</l>
+               <l>Of men oppreſt, ſeek by a <hi>Sacrifice</hi>
+               </l>
+               <l>Of <hi>Righteouſneſs,</hi> and both by Reſtitution</l>
+               <l>Of Spoils, and willing Contribution,</l>
+               <l>To take that Curſe off, which on us is brought</l>
+               <l>Through breach of <hi>Publike faith</hi> (nigh ſet at nought.)</l>
+               <l>For, till that be endeavour'd, GOD will blaſt</l>
+               <l>Our <hi>Counſels,</hi> and aſide our <hi>Prayers</hi> caſt;</l>
+               <l>As we do theirs, who, grov'l at our feet,</l>
+               <l>And, with ſad <hi>Exclamations,</hi> fill the ſtreet.</l>
+            </lg>
+            <lg>
+               <l>'T is not the <hi>cheap Oblations</hi> of <hi>Thanksgivings,</hi>
+               </l>
+               <l>With much Hypocriſie, and Miſ-believings</l>
+               <l>Prophan'd; nor <hi>Formal Faſtings,</hi> nor a Zeal</l>
+               <l>Of ſetling this diſtracted <hi>Commonweal,</hi>
+               </l>
+               <pb n="23" facs="tcp:170092:18"/>
+               <l>For our own ſafety; which, will ſerve, alone,</l>
+               <l>To expiate thoſe Evils we have done:</l>
+               <l>No, nor the fervour, wherewith we expreſs</l>
+               <l>Our Care of that <hi>Religion</hi> we profeſs;</l>
+               <l>And, to explode all other, that will make</l>
+               <l>
+                  <hi>Atonement</hi> for us, whilſt the <hi>Rules</hi> we break</l>
+               <l>Of <hi>Moral honestie:</hi> or, whilſt we want</l>
+               <l>That <hi>Love,</hi> which ought to be concomitant</l>
+               <l>Therewith; and are not truely purg'd from that</l>
+               <l>Which our <hi>Devotion,</hi> doth contaminate:</l>
+               <l>For, undefil'd <hi>Religion,</hi> doth conſiſt</l>
+               <l>In ſuccouring the <hi>Widow,</hi> the <hi>Opprest</hi>
+               </l>
+               <l>And <hi>Fatherleſs;</hi> of which, until we take</l>
+               <l>More care, we, of our <hi>Faith,</hi> falſe boaſtings make:</l>
+               <l>And, that <hi>Religion,</hi> which our <hi>Wits</hi> we ſtrain</l>
+               <l>To ſettle, will profeſſed be in vain.</l>
+            </lg>
+            <lg>
+               <l>Let us ſo labour, therefore, to enjoy</l>
+               <l>
+                  <hi>Religious Truth,</hi> that, neither we deſtroy</l>
+               <l>The <hi>Civil peace;</hi> nor, barb'rouſly neglect</l>
+               <l>
+                  <hi>Morality;</hi> whoſe wilful diſ-reſpect</l>
+               <l>Deſtruction brings. To him, let us <hi>ſubmit,</hi>
+               </l>
+               <l>Whom, GOD, hath rais'd up, on the <hi>Throne</hi> to ſit.</l>
+               <l>Let us conform, unto that <hi>Pow'r,</hi> which IS;</l>
+               <l>Becauſe, all <hi>Pow'rs</hi> that are, be onely His</l>
+               <l>To whom all <hi>Thrones</hi> belong; whether he hath</l>
+               <l>In <hi>love,</hi> vouch ſafed it, or, in his <hi>wrath.</hi>
+               </l>
+               <l>For, unto whomſoever he commits</l>
+               <l>That <hi>Pow'r;</hi> or, whoe'er, <hi>full dominion</hi> gets,</l>
+               <l>They will be inexcuſable, who ſhall</l>
+               <l>Reject, whom GOD, inveſteth therewithal;</l>
+               <l>Since, if they bring us <hi>Peace,</hi> we are too blame,</l>
+               <l>If we, with them, comply not in the ſame,</l>
+               <l>Or, help not to improve it; though, it more</l>
+               <l>Should coſt, then would have bought it heretofore.</l>
+            </lg>
+            <pb n="24" facs="tcp:170092:19"/>
+            <lg>
+               <l>Though, with a <hi>Sword</hi> they come, let us obay,</l>
+               <l>Till he who ſent it, takes the ſame away;</l>
+               <l>Who, as he rais'd them, ere we were aware,</l>
+               <l>Will caſt them down, when we leaſt able are,</l>
+               <l>If they tranſgreſs their bounds, and ſhall forget</l>
+               <l>To what intent, they on their <hi>Thrones</hi> were ſet.</l>
+               <l>Yea, when to us, no likelihood appears</l>
+               <l>Of <hi>Freedom,</hi> or <hi>Deliv'rance</hi> from our Fears,</l>
+               <l>GOD, will (ev'n when for us too ſtrong they grow)</l>
+               <l>By their own <hi>Pow'r,</hi> effect their overthrow.</l>
+               <l>As upon thoſe, who having heretofore</l>
+               <l>Abus'd their <hi>Pow'r,</hi> are to be ſeen no more.</l>
+               <l>And, no <hi>Good man,</hi> ſhall need, his hand to rear</l>
+               <l>Againſt them: for, enough there always <hi>were,</hi>
+               </l>
+               <l>And <hi>are,</hi> and <hi>will be;</hi> whom, <hi>Revenge, Deſpight,</hi>
+               </l>
+               <l>
+                  <hi>Self-interests,</hi> or <hi>Envie,</hi> will incite</l>
+               <l>To execute GOD's wrath: and, in their ſin,</l>
+               <l>When <hi>Tyrants</hi> rage, and hardned are therein,</l>
+               <l>As <hi>Pharaoh.</hi> was; ſuch things as they deſpiſe</l>
+               <l>(Ev'n <hi>Frogs</hi> and <hi>Caterpillers, Lice</hi> and <hi>Flyes</hi>)</l>
+               <l>Will waſte them: yea, their own vain <hi>Wit</hi> and <hi>Will</hi>
+               </l>
+               <l>Should ruine them, though all things elſe ſtood ſtill;</l>
+               <l>And, they themſelves, <hi>Traytors</hi> enough would raiſe,</l>
+               <l>(Complying with them, in their evil ways)</l>
+               <l>To root them out: the <hi>Mag gots</hi> which were bred</l>
+               <l>By their rank <hi>Luſts,</hi> and by their <hi>Carrion</hi> ſed,</l>
+               <l>Shall eat them up. And, theſe <hi>ſignes</hi> will fore-run</l>
+               <l>That <hi>Deſtiny,</hi> when their ſad <hi>fall</hi> draws on.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Projectors, Flatt'rers,</hi> and <hi>Buffoons,</hi> will then</l>
+               <l>Finde more eſteem, then <hi>good</hi> and <hi>ſober men:</hi>
+               </l>
+               <l>
+                  <hi>Prudent advice,</hi> and <hi>timely-ſpoken Truth,</hi>
+               </l>
+               <l>Shall be deſpis'd: Raſh <hi>unexperienc'd youth,</hi>
+               </l>
+               <l>Like <hi>Rehoboam</hi>'s Counſel, ſhall be heard,</l>
+               <l>And <hi>grave advice</hi> obtain but ſmall regard:</l>
+               <pb n="25" facs="tcp:170092:19"/>
+               <l>The <hi>Temporizer,</hi> who, himſelf inclines</l>
+               <l>To humour and to further their Deſignes,</l>
+               <l>Shall finde moſt favour; they, who ſaithful are</l>
+               <l>To <hi>Publike Interest,</hi> they, more ſhall fear</l>
+               <l>Then their known Foes; and, them out of their way</l>
+               <l>Remove, or elſe deſtroy them, if they may.</l>
+               <l>And (mark this well) when that 's done, next of all,</l>
+               <l>And quickly too, will follow their own fall.</l>
+            </lg>
+            <lg>
+               <l>Be therefore, <hi>wiſe,</hi> ye <hi>Princes; Rulers,</hi> learn</l>
+               <l>VVhat, may your <hi>weal</hi> and <hi>honour,</hi> moſt concern.</l>
+               <l>Be careful, that, you ſin not againſt <hi>Him,</hi>
+               </l>
+               <l>VVho, rais'd you, to a <hi>Sov'raign Diadom.</hi>
+               </l>
+               <l>As it becomes his <hi>Vice-roys,</hi> govern ſo,</l>
+               <l>That, to the world, his Juſtice you may ſhow,</l>
+               <l>For propagation of that <hi>Kingdom,</hi> here,</l>
+               <l>Which we expect; and, will ere long appear.</l>
+            </lg>
+            <lg>
+               <l>And <hi>Thou,</hi> whoſe <hi>Title,</hi> here I celebrate;</l>
+               <l>
+                  <hi>Thou,</hi> who, haſt oportunity of that</l>
+               <l>VVhich may to GOD and <hi>Men,</hi> moſt pleaſing be;</l>
+               <l>(And, haſt the means thereof, confer'd on thee,</l>
+               <l>Firſt, and above all others;) loſe thou not</l>
+               <l>Thoſe great <hi>advantages,</hi> which thou haſt got,</l>
+               <l>For all the proffers, which this world can make.</l>
+               <l>To <hi>Sodom,</hi> or to <hi>Aegypt,</hi> look not back,</l>
+               <l>Leſt, thou be made a <hi>Monument</hi> of <hi>Salt</hi>
+               </l>
+               <l>To keep thoſe, who come after, from thy fault;</l>
+               <l>Or, leave thy bones, obſcur'd, by deſolation,</l>
+               <l>VVithin the <hi>Wilderneſs</hi> of thy <hi>Probation.</hi>
+               </l>
+               <l>
+                  <hi>Thou,</hi> who art now, the worlds new <hi>Northern Star,</hi>
+               </l>
+               <l>Let, in thine <hi>Orb,</hi> no <hi>Courſe irregular</hi>
+               </l>
+               <l>(<hi>Oblique</hi> or <hi>Retrograde</hi>) divert thee from</l>
+               <l>Thoſe <hi>motions,</hi> which, thy <hi>Circle</hi> beſt become;</l>
+               <l>Leſt, from that <hi>Heav'n,</hi> in which thou now doſt ſhine,</l>
+               <l>Down to the <hi>Earth,</hi> thou back again decline.</l>
+               <pb n="26" facs="tcp:170092:20"/>
+               <l>And, like the <hi>Star</hi> call'd <hi>Wormwood,</hi> bitter make</l>
+               <l>Thoſe <hi>waters,</hi> whence, we now <hi>refreſhments</hi> take.</l>
+               <l>Since, there are <hi>Conſtellations</hi> of ſome might,</l>
+               <l>Whoſe <hi>motions,</hi> to thy <hi>Courſe,</hi> are oppoſite;</l>
+               <l>Give no occaſion of the ſad effects,</l>
+               <l>Which are portended, by their croſs <hi>Aſpects.</hi>
+               </l>
+               <l>Since, they, who love thee beſt, finde in thy <hi>way,</hi>
+               </l>
+               <l>Great <hi>Dangers; Fear</hi> much, for thee; <hi>watch &amp; pray:</hi>
+               </l>
+               <l>Oh! be not too ſecure; truſt not upon</l>
+               <l>What, may by <hi>humane Pow'r,</hi> or <hi>Wit</hi> be done:</l>
+               <l>But, cleave to him, who rais'd thee to this hight;</l>
+               <l>Yea, keeps thee on the <hi>Throne,</hi> in their deſpight:</l>
+               <l>And, think thou haſt great Cauſe, good heed to take,</l>
+               <l>When, like a <hi>Man,</hi> thou hear'ſt an <hi>Aſs</hi> to ſpeak.</l>
+            </lg>
+            <lg>
+               <l>If we expect a <hi>Bleſſing,</hi> let us, too,</l>
+               <l>Without <hi>Hypocriſie,</hi> our duties do,</l>
+               <l>To thoſe in <hi>Pow'r:</hi> To him, partic'larly,</l>
+               <l>That, over us, hath now the <hi>Sov'raignty;</hi>
+               </l>
+               <l>With true obedience, not in ſhew, or word,</l>
+               <l>Aſcribing, what our hearts do not afford:</l>
+               <l>Nor let us ſeek, in ſecret, to deprive him,</l>
+               <l>Of that, which openly we ſeem to give him:</l>
+               <l>For, <hi>Falſhood,</hi> ſhall be falſly dealt withal;</l>
+               <l>And, <hi>Sand</hi> and <hi>Pebbles</hi> make as firm a wall</l>
+               <l>In our defence, as either <hi>word,</hi> or <hi>deed,</hi>
+               </l>
+               <l>Which, from <hi>diſſimulation,</hi> doth proceed.</l>
+            </lg>
+            <lg>
+               <l>Let us not grudge at, what muſt make him able</l>
+               <l>To do his <hi>Office,</hi> in an honourable</l>
+               <l>And pow'rful way; leſt, that, which fails thereby,</l>
+               <l>On our <hi>account,</hi> to our own <hi>loſs,</hi> may lie.</l>
+               <l>If, to that end, he ſeeks <hi>accommodations,</hi>
+               </l>
+               <l>He ſeeks them, for the honour of theſe <hi>Nations,</hi>
+               </l>
+               <l>As well as for his own; and, more, perchance,</l>
+               <l>The <hi>Publike,</hi> then his <hi>private,</hi> to advance.</l>
+               <pb n="27" facs="tcp:170092:20"/>
+               <l>And, what, too little, or too much will be</l>
+               <l>To that <hi>end;</hi> he, may better know then we.</l>
+               <l>If, in this late <hi>Eſtabliſhment,</hi> he aims</l>
+               <l>At <hi>Safety;</hi> 't is no more then <hi>Nature</hi> claims;</l>
+               <l>And, to accept of leſs, then may, in reaſon</l>
+               <l>Thereto ſuffice, were by miſpriſion <hi>treaſon</hi>
+               </l>
+               <l>Againſt the <hi>Dignity,</hi> on him beſtown,</l>
+               <l>And, may betray our <hi>Safety,</hi> with his own.</l>
+            </lg>
+            <lg>
+               <l>We, whoſe abodes, are on the <hi>Globe</hi> below,</l>
+               <l>Some <hi>motions</hi> of the <hi>Stars</hi> above, may know:</l>
+               <l>But, 't is impoſſible, that we ſhould learn</l>
+               <l>All things, which may their <hi>influence</hi> concern:</l>
+               <l>And, 'tis not eaſie, for our eyes to heed</l>
+               <l>What, they may be conſtrain'd to, in their need,</l>
+               <l>Whoſe hands muſt tune ſo many <hi>diff'ring ſtrings,</hi>
+               </l>
+               <l>And have, in charge, ſo many <hi>thouſand things.</hi>
+               </l>
+               <l>Though, ſuch as mark not, that <hi>Emergencies</hi>
+               </l>
+               <l>Oft happen; and, that, perils may ariſe</l>
+               <l>(Unthought upon) which, will neceſſitate</l>
+               <l>The <hi>Supreme Officer,</hi> of ev'ry State</l>
+               <l>To act ſome things, which are not warrantable</l>
+               <l>By their <hi>known Laws:</hi> yet, <hi>wiſe-men</hi> (who are able</l>
+               <l>To ſee how far, they juſtly, then, may go</l>
+               <l>Beyond <hi>Set Rules</hi>) do rationally know,</l>
+               <l>That, <hi>Arbitrary Pow'r,</hi> in ſome degree,</l>
+               <l>(And in ſome <hi>caſes</hi>) muſt allowed be</l>
+               <l>As if by <hi>Law</hi> expreſſed; or, that, all</l>
+               <l>Earths <hi>Governments,</hi> would into pieces fall.</l>
+               <l>And, this, is but that <hi>Pow'r,</hi> whereby we arm</l>
+               <l>Each <hi>Private perſon,</hi> when a <hi>Common harm</hi>
+               </l>
+               <l>Is menaced: for, when a <hi>City</hi> burns,</l>
+               <l>To <hi>ſave it,</hi> he pulls down, and overturns</l>
+               <l>What, he thinks fit; and, takes away their right,</l>
+               <l>From <hi>Some,</hi> that <hi>All,</hi> may not be rum'd quite.</l>
+            </lg>
+            <pb n="28" facs="tcp:170092:21"/>
+            <lg>
+               <l>No leſs, ſhould be his <hi>Pow'r,</hi> if need require,</l>
+               <l>Who, may have otherwhile, a <hi>Gen'ral Fire</hi>
+               </l>
+               <l>To <hi>ſtop,</hi> or <hi>quench;</hi> by which, not onely, <hi>one,</hi>
+               </l>
+               <l>But, <hi>many Cities,</hi> may be quite undone:</l>
+               <l>Yea, <hi>three great Nations;</hi> for whoſe good, I truſt,</l>
+               <l>He will improve it, and, appear as juſt</l>
+               <l>As I believe him; and, bring all, at laſt,</l>
+               <l>Into a <hi>right Courſe,</hi> when the <hi>danger</hi>'s paſt.</l>
+               <l>Whate'er he proveth; whether by his <hi>will</hi>
+               </l>
+               <l>Or <hi>Law</hi> he Rules; or, comes, for <hi>good</hi> or <hi>ill;</hi>
+               </l>
+               <l>Let all of us, o'er whom GOD gives him pow'r,</l>
+               <l>Make conſcience, that the fault be none of our.</l>
+            </lg>
+            <lg>
+               <l>For, though that this PROTECTOR, is not he</l>
+               <l>Whom long we look'd for; this was ſent to be</l>
+               <l>His <hi>Ways preparer;</hi> and, is, (though not that</l>
+               <l>
+                  <hi>Supreme Protector</hi>) one, ſubordinate</l>
+               <l>To him; and ſubſtituted for <hi>Probation,</hi>
+               </l>
+               <l>Both of <hi>himſelf,</hi> and of this <hi>Generation,</hi>
+               </l>
+               <l>In order to <hi>Chriſt's Empire;</hi> to break down</l>
+               <l>Both our <hi>Self-confidences,</hi> and his <hi>own,</hi>
+               </l>
+               <l>As well as their, who have been miſchievous</l>
+               <l>Unto that <hi>Kingdom,</hi> which lies hid in <hi>us.</hi>
+               </l>
+               <l>Whereof, take heed, leſt when you ſhall reſiſt</l>
+               <l>His <hi>Pow'r,</hi> you take a part with <hi>Antichrist;</hi>
+               </l>
+               <l>And, in the ſtead of ſetling <hi>Common peace,</hi>
+               </l>
+               <l>Our Publike Jars, and private Woes, increaſe.</l>
+            </lg>
+            <lg>
+               <l>Heed, alſo, this; that, thoſe <hi>Events,</hi> which ſhall</l>
+               <l>Thereon ſucceed, are but <hi>conditional,</hi>
+               </l>
+               <l>To fail, or be effected, as, thereto</l>
+               <l>Both <hi>Parties,</hi> ſhall <hi>conform, omit,</hi> or <hi>do:</hi>
+               </l>
+               <l>And, that this <hi>Title,</hi> likely to be made</l>
+               <l>The moſt renown'd, that ever <hi>Mortal</hi> had,</l>
+               <l>May, by <hi>Prevarications,</hi> fall below</l>
+               <l>The vileſt <hi>Names,</hi> that Malice can <hi>beſtow;</hi>
+               </l>
+               <pb n="29" facs="tcp:170092:21"/>
+               <l>And, that, what, we to build up have preſum'd,</l>
+               <l>May, by a <hi>firy trial,</hi> be conſum'd.</l>
+               <l>Should it ſo prove, then, therewith mindful be,</l>
+               <l>That, our <hi>works</hi> onely, would be loſt; not <hi>we:</hi>
+               </l>
+               <l>And, that, we need not to deſpair or fear,</l>
+               <l>(If, to a <hi>Right Foundation,</hi> we adhere)</l>
+               <l>Whatever follows: for, beſt ſpeed we ſhall,</l>
+               <l>When, we are <hi>Nothing;</hi> and, GOD's <hi>All</hi> in All.</l>
+            </lg>
+            <lg>
+               <l>But, ſhould our <hi>North-ſtar</hi> be remov'd from hence,</l>
+               <l>Or, we deprived of his <hi>Influence</hi>
+               </l>
+               <l>By <hi>Counter-working Pow'rs,</hi> (which, to ſuſpect</l>
+               <l>I am not prone) I fear, that ſad effect</l>
+               <l>Will come to paſs by ſome default of our;</l>
+               <l>As, by our <hi>Envie, murm'ring at his Pow'r;</hi>
+               </l>
+               <l>Or, elſe, by ſome way, him <hi>provoking</hi> ſo,</l>
+               <l>That, GOD may leave him, his own <hi>will,</hi> to do,</l>
+               <l>For our juſt puniſhment; and, therewithal</l>
+               <l>Permit him, through ſome <hi>Overſights,</hi> to fall</l>
+               <l>Into ſuch <hi>errors,</hi> or ſuch <hi>negligences,</hi>
+               </l>
+               <l>As, on himſelf, may bring ſad Conſequences.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Moſes,</hi> the beſt and meekeſt of all men</l>
+               <l>In his time living, and, perhaps, ſince then;</l>
+               <l>By being, thus exaſperated, loſt</l>
+               <l>The honor, to be <hi>Leader</hi> of GOD's Hoſt</l>
+               <l>Into their <hi>promis'd land;</hi> and, after all</l>
+               <l>His <hi>glory,</hi> in the <hi>wilderneſs</hi> did fall:</l>
+               <l>Thus, for like <hi>Provocations,</hi> GOD oft hath</l>
+               <l>Set over <hi>Nations,</hi> RULERS, in his wrath;</l>
+               <l>And, for ſome <hi>overſights,</hi> makes <hi>Kings,</hi> to ſhare</l>
+               <l>In thoſe <hi>Corrections,</hi> wherewith ſcourg'd they are.</l>
+               <l>Thus, heretofore, for <hi>Iſr'els</hi> wickedneſs,</l>
+               <l>King <hi>David,</hi> was permitted to tranſgreſs;</l>
+               <l>And, thus, <hi>we,</hi> and our <hi>Chief,</hi> for what is ill,</l>
+               <l>In us, may be <hi>joynt-ſuff'rers;</hi> yet, he, ſtill</l>
+               <pb n="30" facs="tcp:170092:22"/>
+               <l>Continue in <hi>Uprightneſs,</hi> as to that</l>
+               <l>Which doth concern him, in his <hi>beſt Eſtate.</hi>
+               </l>
+               <l>For, though <hi>Detraction,</hi> raiſed by his <hi>Foes,</hi>
+               </l>
+               <l>(And, no leſs, by the Levity, of thoſe</l>
+               <l>Who, owe him love and duty) ſtrives to vail</l>
+               <l>His <hi>Worth;</hi> by ſhewing, wherein he doth fail</l>
+               <l>Their expectations: yet, (for ought I ſee)</l>
+               <l>His <hi>Actions</hi> hitherto, not onely be</l>
+               <l>Unblameable, but alſo ought, at leaſt</l>
+               <l>By an <hi>acknowledgement,</hi> to be expreſt</l>
+               <l>(All things conſidered) with high applauſe,</l>
+               <l>As bringing <hi>welſare</hi> as the <hi>Publike cauſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And, therefore, though the nature of my <hi>Theme,</hi>
+               </l>
+               <l>Doth not invite me now, to ſpeak of <hi>him,</hi>
+               </l>
+               <l>But, of his <hi>Title</hi> onely; And, though none</l>
+               <l>Should give their <hi>Plaudits,</hi> till the <hi>Play</hi> be done;</l>
+               <l>(Or, crown men, till the <hi>Coronation-day,</hi>
+               </l>
+               <l>Which is their laſt) yet, ſomewhat I will ſay</l>
+               <l>To hint, in brief, what, more at large, I might</l>
+               <l>Expreſs, ſhould I, a <hi>Panegyrick</hi> write:</l>
+               <l>Yea, in deſpight of <hi>Envie,</hi> (though by <hi>him,</hi>
+               </l>
+               <l>I ſhould no more be favour'd, then by them</l>
+               <l>Who hate me) I'll with confidence aver,</l>
+               <l>And, maugre <hi>Malice,</hi> make it to appear,</l>
+               <l>That, if he had not often, great things done,</l>
+               <l>Beyond meer <hi>humane hope,</hi> and far outgone</l>
+               <l>All preſidents of <hi>Senators,</hi> or <hi>Sages,</hi>
+               </l>
+               <l>
+                  <hi>Princes,</hi> or <hi>Captains,</hi> in preceding Ages,</l>
+               <l>And all <hi>thoſe,</hi> who had lately <hi>Supreme Pow'r,</hi>
+               </l>
+               <l>We had not been a <hi>Nation,</hi> at this hour,</l>
+               <l>Enabled to ſubſiſt, within our <hi>dores;</hi>
+               </l>
+               <l>Or, from <hi>Invaſion,</hi> to have kept our <hi>ſhores.</hi>
+               </l>
+               <l>Whereas, we now, are by the <hi>Sword</hi> of GOD,</l>
+               <l>In this <hi>Protector</hi>'s hand, bow'd to, abroad;</l>
+               <pb n="31" facs="tcp:170092:22"/>
+               <l>In <hi>Peace at home; enabled to aſſiſt</hi>
+               </l>
+               <l>Our <hi>friends; emboldened, where we liſt,</hi>
+               </l>
+               <l>
+                  <hi>To ſpread our Sayls:</hi> The <hi>Envie</hi> grown, of thoſe</l>
+               <l>Who <hi>ſlighted</hi> us; made <hi>dreadful</hi> to our <hi>Foes;</hi>
+               </l>
+               <l>And, in ſo ſhort time, that, the <hi>work</hi> was done</l>
+               <l>Almoſt, as ſuddenly as 'twas begun.</l>
+               <l>Nay, more then this, (if more then this, can be</l>
+               <l>Atchiev'd for our advantage) it is <hi>He</hi>
+               </l>
+               <l>Who, was that happie <hi>Inſtrument,</hi> whereby</l>
+               <l>GOD, ſav'd us from a barb'rous <hi>Anarchie;</hi>
+               </l>
+               <l>And, from a <hi>Tyranny,</hi> which had, perhaps,</l>
+               <l>Appear'd ere thi, in many ſev'ral ſhapes;</l>
+               <l>And, may, yet, ſeize us, if Sin ſhould deprive</l>
+               <l>This <hi>Commonwealth,</hi> of her <hi>Preſervative.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This, is ſo evident, that I believe,</l>
+               <l>His <hi>Enemies,</hi> my witneſs will receive;</l>
+               <l>And, that a feigned <hi>Poem,</hi> in his praiſe,</l>
+               <l>We need not, by <hi>Hyperboles,</hi> to raiſe;</l>
+               <l>Or, by ſtrain'd <hi>Metaphors,</hi> which, make him, more</l>
+               <l>
+                  <hi>Envi'd</hi> then <hi>honor'd:</hi> And, the Cauſe wherefore</l>
+               <l>I wave thoſe <hi>Strains,</hi> is, leſt, in ſtead of wat'ring</l>
+               <l>
+                  <hi>Vertues,</hi> with modeſt Praiſes; I, by flatt'ring</l>
+               <l>Might hap to drown them; and, deſtroy that <hi>end,</hi>
+               </l>
+               <l>Whereto, my <hi>rational endeavours</hi> tend.</l>
+            </lg>
+            <lg>
+               <l>That, therefore, thoſe good aims may be effected,</l>
+               <l>Whereto, they are intentionally directed,</l>
+               <l>Let us, with humble and true <hi>Self-denial,</hi>
+               </l>
+               <l>Submit to tarry out our <hi>days of trial;</hi>
+               </l>
+               <l>And, if ſome yet, among us, doubtful are</l>
+               <l>Whether, by GOD, or <hi>men</hi> advanc'd he were,</l>
+               <l>Let them, (as wiſe <hi>Gamaliel</hi> did adviſe)</l>
+               <l>Wait, without off'ring force, what from <hi>ſucceſs</hi>
+               </l>
+               <l>May be reſolv'd: For, ſure more dangers will</l>
+               <l>Riſe from <hi>reſiſtance,</hi> then from <hi>ſitting ſtill.</hi>
+               </l>
+               <pb n="32" facs="tcp:170092:23"/>
+               <l>Joyntly let us aſſent, in carry'ng on</l>
+               <l>That <hi>work,</hi> which GOD, appointeth to be done;</l>
+               <l>And, not deprive our ſelves of <hi>real good,</hi>
+               </l>
+               <l>To ſettle an uncertain <hi>Likelihood:</hi>
+               </l>
+               <l>If there were Likelihood of any thing</l>
+               <l>Which, we by other <hi>means,</hi> to paſs might bring,</l>
+               <l>Conducing more unto our happineſs,</l>
+               <l>Then, what the <hi>Courſe in act,</hi> yet promiſes.</l>
+            </lg>
+            <lg>
+               <l>Let us recal, with due conſiderations,</l>
+               <l>What, hath been long time ſuffer'd by theſe <hi>Nations,</hi>
+               </l>
+               <l>Through thoſe deſtructive <hi>Diſcords,</hi> lately bred</l>
+               <l>Betwixt the <hi>Peoples Truſtees,</hi> and their <hi>Head;</hi>
+               </l>
+               <l>As alſo, 'twixt themſelves: Let it be weigh'd,</l>
+               <l>What <hi>Burthens</hi> were, thereby upon us laid,</l>
+               <l>And, yet, lie heavie: Let the mournful cries,</l>
+               <l>Of Families undone; the weeping eyes</l>
+               <l>Of <hi>Childleſs mothers,</hi> and, the dying grones</l>
+               <l>Of many <hi>Fathers,</hi> ſlaughter'd with their <hi>Sons,</hi>
+               </l>
+               <l>(And, <hi>Friends</hi> imbrued in each others gore</l>
+               <l>By Civil Wars) make us conſider more</l>
+               <l>What, may again befal; and, by regard</l>
+               <l>To what <hi>hath been,</hi> prevent, what <hi>afterward</hi>
+               </l>
+               <l>May follow, if that <hi>Quarrel</hi> ſhould renew</l>
+               <l>In which, our <hi>Swords,</hi> unhappily we drew;</l>
+               <l>And, which, would now, upon a worſe <hi>Account,</hi>
+               </l>
+               <l>Revive; and, to a worſe reſult amount.</l>
+               <l>Oh! think of theſe things with a ſerious thought,</l>
+               <l>Before <hi>Repentance</hi> be too dearly bought:</l>
+               <l>And, ſuffer not, our former countleſs coſt,</l>
+               <l>In treaſure, blood, and labour, to be loſt;</l>
+               <l>But, rather with due thankfulneſs to heav'n,</l>
+               <l>Enjoy in <hi>Peace,</hi> what, GOD hath left, or <hi>giv'n.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Let, for the future, none of us repine</l>
+               <l>At that, which hath by <hi>Providence</hi> divine</l>
+               <pb n="33" facs="tcp:170092:23"/>
+               <l>Effected been; but, patiently attend</l>
+               <l>Till, he, who hath begun, ſhall make an end:</l>
+               <l>For, whether to our <hi>weal,</hi> or <hi>we</hi> it prove,</l>
+               <l>His <hi>ways</hi> are <hi>juſt,</hi> and all his <hi>works</hi> are <hi>love.</hi>
+               </l>
+               <l>Let us not change that <hi>Title</hi> which is given</l>
+               <l>(For ought we know of) by decree from heav'n:</l>
+               <l>Nor, let a <hi>looking backward,</hi> on thoſe things</l>
+               <l>Which time, and ripeneſs, to their <hi>Period</hi> brings,</l>
+               <l>Obſtruct our <hi>looking forward;</hi> as if nought</l>
+               <l>For our avail, could poſſibly be wrought</l>
+               <l>Save by that <hi>Pow'r,</hi> which once we idoliz'd,</l>
+               <l>Until it grew to be as much deſpis'd,</l>
+               <l>As honor'd heretofore; and miſchievous</l>
+               <l>Both to its own <hi>ſelf-being,</hi> and to us.</l>
+               <l>For, GOD, will have it known, that an <hi>Extent</hi>
+               </l>
+               <l>Is ſet to ev'ry <hi>State</hi> or <hi>Government;</hi>
+               </l>
+               <l>And, that there is no <hi>Kingdom, Pow'r,</hi> or <hi>Glory,</hi>
+               </l>
+               <l>But, <hi>His,</hi> alone, which is not tranſitory.</l>
+            </lg>
+            <lg>
+               <l>We have dim <hi>Revelations,</hi> of ſome things</l>
+               <l>By, and through whoſe imperfect glimmerings,</l>
+               <l>We grope, and ſtumble onward, toward that</l>
+               <l>Which we by <hi>faith</hi> and <hi>hope</hi> have aimed at;</l>
+               <l>Slipping, ſometimes, beſide the <hi>ſafeſt path,</hi>
+               </l>
+               <l>Or, on each other falling foul, in wrath;</l>
+               <l>Becauſe, we, but in part, ſee, whereunto</l>
+               <l>Our <hi>Courſes</hi> tend, or what we ought to do.</l>
+               <l>Yet, we are bound, according, to that <hi>Light</hi>
+               </l>
+               <l>To make our <hi>Progreſſes,</hi> with all our might;</l>
+               <l>And, not diſtruſt th' <hi>affection</hi> of our <hi>Guide,</hi>
+               </l>
+               <l>How weak a means ſoever he provide:</l>
+               <l>For, when we finde our ſelves, quite in the dark,</l>
+               <l>And, where <hi>Light-real,</hi> caſteth forth, no ſpark,</l>
+               <l>We muſt <hi>ſtand ſtill;</hi> and, totally reſigne</l>
+               <l>Our <hi>ſelves,</hi> unto that <hi>Providence divine,</hi>
+               </l>
+               <pb n="34" facs="tcp:170092:24"/>
+               <l>Which governs all; leſt, ſuch <hi>falſe lights</hi> appear</l>
+               <l>As thoſe, wherewith, all men deluded are,</l>
+               <l>Who, in ſuch <hi>Streights,</hi> are tempted to <hi>deſpair;</hi>
+               </l>
+               <l>To <hi>murmur;</hi> or, their <hi>loſſes to repair,</hi>
+               </l>
+               <l>By <hi>wicked means;</hi> And, ſo, in hope to ſhun</l>
+               <l>A <hi>Hazard,</hi> unto Deaths aſſured run.</l>
+            </lg>
+            <lg>
+               <l>As our <hi>Affairs</hi> now ſtand, we ſeem, like thoſe</l>
+               <l>Whom, on both ſides, <hi>high mountains</hi> did encloſe</l>
+               <l>Not to be climb'd; whoſe <hi>fore-right march</hi> was bar'd</l>
+               <l>By <hi>Seas,</hi> through which, no hope of <hi>paſs,</hi> appear'd:</l>
+               <l>Who had behinde their backs a pow'rful <hi>Hoſt</hi>
+               </l>
+               <l>By whoſe ſwift coming on, all means was loſt</l>
+               <l>Of ſafe <hi>Retreats:</hi> They could not <hi>downward</hi> dive;</l>
+               <l>Nor knew they, how to get to <hi>heav'n</hi> alive:</l>
+               <l>But, they a <hi>Moſes,</hi> and an <hi>A'ron</hi> had,</l>
+               <l>Who, lately, for them, had a <hi>paſſage</hi> made</l>
+               <l>Through no leſs <hi>difficulties:</hi> yea, their GOD</l>
+               <l>Did manifeſt among them his abode</l>
+               <l>Ev'n in that <hi>Streight,</hi> and, forward, made them go,</l>
+               <l>With <hi>ſafety,</hi> and <hi>triumphant honor</hi> too.</l>
+            </lg>
+            <lg>
+               <l>Obſerve the <hi>Parallel: Diviſions,</hi> here,</l>
+               <l>Have raiſed <hi>Factions,</hi> which, like <hi>Mountains</hi> are</l>
+               <l>On each hand ſtraightning us: before our eyes,</l>
+               <l>Much People, like the <hi>Red-ſea,</hi> raging lies,</l>
+               <l>And, murmuring, as if a Paſs were ſought,</l>
+               <l>VVhereby, their <hi>Liberties,</hi> would come to nought:</l>
+               <l>That <hi>Pharaoh,</hi> and his <hi>ſervants,</hi> from whoſe yoke,</l>
+               <l>VVe are eſcap'd; encouragement have took</l>
+               <l>To follow after us (as if, they thought</l>
+               <l>Not <hi>Providence,</hi> but <hi>Chance,</hi> our freedom brought:)</l>
+               <l>And, ev'n this <hi>Earth</hi> and <hi>Air,</hi> gives food and breath</l>
+               <l>To thoſe, that have with them conſpir'd our death.</l>
+               <l>Yet, we have ſtill a <hi>Moſes</hi> in our <hi>Camp;</hi>
+               </l>
+               <l>And, thoſe, on whom, there doth appear the ſtamp</l>
+               <pb n="35" facs="tcp:170092:24"/>
+               <l>Of <hi>A'rons</hi> ſanctity; and, (which is more)</l>
+               <l>God, ſtill, with us, abides as heretofore.</l>
+            </lg>
+            <lg>
+               <l>Why, ſhould we then deſiſt to truſt upon</l>
+               <l>His kindneſs, who ſo much for us hath done?</l>
+               <l>Can we ſuſpect, that he, whoſe <hi>mercy</hi> gave us</l>
+               <l>A <hi>man</hi> impow'r'd, and qualiſi'd to ſave us</l>
+               <l>From our <hi>Oppreſſors;</hi> did intend that he</l>
+               <l>Should make us preſently his ſlaves to be?</l>
+               <l>Did any grudge at <hi>Moſes,</hi> whom he ſent</l>
+               <l>For their <hi>Deliverer;</hi> but ſuch as went</l>
+               <l>Down quick to <hi>hell?</hi> or, thoſe whom he did ſlay</l>
+               <l>With <hi>fire from heav'n,</hi> or, from <hi>earth</hi> took away</l>
+               <l>By his immediate hand? Nay, when King <hi>Saul</hi>
+               </l>
+               <l>He in his wrath, up to the Throne did call,</l>
+               <l>Were any then diſpleaſed therewithal,</l>
+               <l>But wicked men, and <hi>ſons of Belial?</hi>
+               </l>
+               <l>Oh! take good heed, whoſe Juſtice, you accuſe;</l>
+               <l>Whoſe <hi>Goodneſs,</hi> and whoſe <hi>Mercy</hi> you abuſe.</l>
+               <l>Be not, ſtill faithleſs; but, on him depend,</l>
+               <l>Whoſe <hi>loving kindneſs,</hi> hath nor change, nor end.</l>
+               <l>Learn, but ſo well to <hi>know</hi> him, as you may,</l>
+               <l>And, by that <hi>knowledge,</hi> you will finde the way</l>
+               <l>To <hi>love</hi> him ſo, that you from thenceforth, ſhall</l>
+               <l>With your <hi>eſtates,</hi> your <hi>bodies, ſouls,</hi> and <hi>all,</hi>
+               </l>
+               <l>Intruſt him; and, admit of no ſuſpect</l>
+               <l>That, his <hi>Deſignes,</hi> can have an ill effect,</l>
+               <l>Concerning you; or, that, the <hi>Pow'r,</hi> or <hi>failing,</hi>
+               </l>
+               <l>Of others, can obſtruct your hopes prevailing.</l>
+            </lg>
+            <lg>
+               <l>But, if you cannot, upon him rely,</l>
+               <l>What, will you do? To whoſe help, would you fly?</l>
+               <l>
+                  <hi>Affairs,</hi> will not ſucceed, as many dream.</l>
+               <l>We are at ſuch a loſs, that things which ſeem</l>
+               <l>To ſome, moſt likely, will not be effected,</l>
+               <l>According to the <hi>mode</hi> they have projected.</l>
+               <pb n="36" facs="tcp:170092:25"/>
+               <l>We ſee our old <hi>Foundations</hi> broken down;</l>
+               <l>VVe ſee the <hi>Pow'rs</hi> we had, quite overthrown;</l>
+               <l>VVe finde, that our own <hi>wiſdom,</hi> is unable</l>
+               <l>To counſel us; and, ſo unprofitable</l>
+               <l>(Through <hi>Contradictions</hi>) that, it doth but add</l>
+               <l>New fears, or jealoufies, to thoſe we had;</l>
+               <l>And menace <hi>dangers,</hi> likely to be more</l>
+               <l>Deſtructive, then our <hi>Troubles</hi> heretoſore.</l>
+               <l>The <hi>preſent time,</hi> is almoſt wholly ſpent</l>
+               <l>A <hi>general Deſtruction,</hi> to prevent;</l>
+               <l>And thoſe men, by whoſe <hi>private Interest,</hi>
+               </l>
+               <l>The <hi>Publike ſtrength,</hi> and <hi>ſafety</hi> doth ſubſiſt,</l>
+               <l>Are without remedy expos'd the while,</l>
+               <l>To ſure, and irrecoverable ſpoil:</l>
+               <l>VVhich, when this <hi>Commonwealth</hi> reſtor'd appears,</l>
+               <l>VVill leave them, in their <hi>triumphs,</hi> little <hi>ſhares.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>VVould you return again, unto the <hi>Pow'r</hi>
+               </l>
+               <l>Firſt laid aſide? That, rather will devour</l>
+               <l>Then bring us help: All, that this <hi>Iſland</hi> hath</l>
+               <l>VVill not ſuffice to ſatisfie his wrath,</l>
+               <l>VVith their <hi>Ambition, Avarice,</hi> and <hi>Luſt,</hi>
+               </l>
+               <l>VVho, in, upon your <hi>Rights,</hi> with him, will thruſt:</l>
+               <l>Yea, many, who, now hope, they ſhall acquire</l>
+               <l>Great things thereby, will periſh in that fire;</l>
+               <l>And, none of thoſe, who think moſt ſafe to be</l>
+               <l>Shall from the <hi>common miſchief,</hi> then, be free.</l>
+            </lg>
+            <lg>
+               <l>VVould you reſume the <hi>Pow'r</hi> aboliſh'd, next?</l>
+               <l>(VVhereby you were ſo many ways perplext?)</l>
+               <l>Let it appear a <hi>Pow'r;</hi> and, we will, then,</l>
+               <l>If it be <hi>Righteous,</hi> give it <hi>place</hi> agen.</l>
+               <l>But it hath now no <hi>being:</hi> nor, was able</l>
+               <l>To ſave it <hi>ſelf,</hi> or to be profitable</l>
+               <l>To others, whilſt it raigned. VVe, have, now,</l>
+               <l>An <hi>Image</hi> of it rais'd; but, who knows how</l>
+               <pb n="37" facs="tcp:170092:25"/>
+               <l>It will comply with <hi>that,</hi> which raiſed it?</l>
+               <l>And, if it ſhall not, what will then befit</l>
+               <l>A <hi>prudent People?</hi> but, cloſe to adhere</l>
+               <l>To that, wherein, GOD's <hi>Pow'r</hi> ſhall moſt appear?</l>
+               <l>What reaſon is there, we ſhould doat ſo much</l>
+               <l>On our <hi>Old Staff,</hi> new pieced with a <hi>Crutch,</hi>
+               </l>
+               <l>That, if it ſhall be forc'd out of our hand,</l>
+               <l>We will, thenceforward, neither go, nor ſtand?</l>
+               <l>But, Childlike, (who, if he a toy deſire,</l>
+               <l>Throws all his other play-games into fire</l>
+               <l>When that 's deny'd him) all our good deſtroy,</l>
+               <l>Becauſe, we may not ſomewhat more enjoy?</l>
+               <l>Oh! heed this folly; and, be rather taught</l>
+               <l>By Fools, then be Fools, and bring all to nought:</l>
+               <l>For, GOD, by <hi>men</hi> and <hi>means,</hi> that moſt deſpiſe,</l>
+               <l>Effects things, which the Prudence of the <hi>Wiſe,</hi>
+               </l>
+               <l>Doth but retard; and, where the means hath been</l>
+               <l>Moſt weak; there, was his <hi>Pow'r</hi> and <hi>Love,</hi> moſt ſeen.</l>
+            </lg>
+            <lg>
+               <l>Make not, unjuſt ſuſpitions of a failing</l>
+               <l>In <hi>others;</hi> to obſtruct, your <hi>own prevailing.</hi>
+               </l>
+               <l>He, upon whom, GOD's <hi>Providence</hi> beſtows</l>
+               <l>The <hi>Supreme Pow'r,</hi> without all doubting, knows,</l>
+               <l>Or may know, (yea, and ſhall know, late or ſoon,</l>
+               <l>By ſome things paſt, or ſome things to be done)</l>
+               <l>That, on his <hi>Good-behaviour,</hi> it is daign'd;</l>
+               <l>And, could not poſſibly, be long ſuſtain'd,</l>
+               <l>If, <hi>He,</hi> ſhould leave him, from whom, he derives</l>
+               <l>His <hi>ſtrength,</hi> his <hi>honour,</hi> and <hi>preſervatives.</hi>
+               </l>
+               <l>He, hath obſerved, (if my information</l>
+               <l>Be true) that an inherent inclination</l>
+               <l>To Tyranny, is found in ev'ry one,</l>
+               <l>That is advanced to a <hi>Sov'raign Throne,</hi>
+               </l>
+               <l>Which will corrupt him wholly, by degrees,</l>
+               <l>Unleſs by <hi>Grace,</hi> that danger he foreſees,</l>
+               <pb n="38" facs="tcp:170092:26"/>
+               <l>With watchfulneſs; ſtill, lab'ring to poſſeſs</l>
+               <l>His <hi>Spirit,</hi> in perpetual <hi>h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mblexeſs,</hi>
+               </l>
+               <l>And, 'twixt his people, and <hi>himſelf,</hi> to make</l>
+               <l>No difference, but, for his <hi>Callings</hi> ſake.</l>
+            </lg>
+            <lg>
+               <l>His <hi>wiſdom,</hi> ſhews him what unſtableneſs</l>
+               <l>There is, in all, that he doth, yet poſſeſs:</l>
+               <l>He, findes by this time, what it is to take</l>
+               <l>The weight of three great <hi>Kingdoms</hi> on his back,</l>
+               <l>What ha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ards he is in, as well by thoſe</l>
+               <l>Who, ſeem to be his <hi>friends,</hi> as by his <hi>foes:</hi>
+               </l>
+               <l>Yea, well enough he ſees, what <hi>hardſhip</hi> ſtands,</l>
+               <l>Before him, and what <hi>downfals</hi> at both hands;</l>
+               <l>And, will not therefore, doubtleſs, be ſo mad</l>
+               <l>(When an <hi>aſſured ſafety</hi> may be had)</l>
+               <l>To live in <hi>danger;</hi> or, to blot the <hi>Story</hi>
+               </l>
+               <l>Which, hath ſo much recorded to his glory;</l>
+               <l>By acting, or intending, what may turn</l>
+               <l>His <hi>far-ſpread honour,</hi> to his <hi>future ſcorn.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To <hi>truſt</hi> him, therefore, why ſhould we refuſe</l>
+               <l>Whom we did <hi>truſt?</hi> and when we cannot chuſe?</l>
+               <l>Nay, when, by cur <hi>diſtrust,</hi> we cannot ſnun</l>
+               <l>Thoſe <hi>Rocks,</hi> on which, we likely are to run?</l>
+               <l>Or, what, adventures either <hi>He,</hi> or <hi>We</hi>
+               </l>
+               <l>(Since, in an equal hazard, both yet be)</l>
+               <l>So both be ſafe; and, he hath pow'r to do</l>
+               <l>That <hi>Work,</hi> which GOD hath called him unto,</l>
+               <l>If, both, ſubmit unto the <hi>frugal cost,</hi>
+               </l>
+               <l>Of yeelding <hi>Part,</hi> that, <hi>All</hi> may not be loſt?</l>
+               <l>And, give unto each other, that, whereby</l>
+               <l>Both may be ſtrong, againſt an <hi>Enemy</hi>
+               </l>
+               <l>Which threatens both? and, who, may elſe deſtroy</l>
+               <l>
+                  <hi>Both Parties,</hi> and poſſeſs what both enjoy?</l>
+            </lg>
+            <lg>
+               <l>For, your <hi>Maligners,</hi> do the world ſurround;</l>
+               <l>Have <hi>Snares</hi> above, and <hi>Engines</hi> under-ground;</l>
+               <pb n="39" facs="tcp:170092:26"/>
+               <l>A <hi>Partie,</hi> both abroad, and here at home;</l>
+               <l>As well in <hi>London,</hi> as in <hi>France</hi> and <hi>Rome:</hi>
+               </l>
+               <l>
+                  <hi>Spies,</hi> in your <hi>houſes,</hi> watching what ye do;</l>
+               <l>Yea, in your <hi>Chambers,</hi> and your <hi>Boſoms</hi> too:</l>
+               <l>Nay more; they hope, if their <hi>cloſe Plots</hi> do fail,</l>
+               <l>That, they, by your <hi>miſ-actings,</hi> may prevail,</l>
+               <l>Through, their infuſing that, into your breſts</l>
+               <l>Whereby they may advance their <hi>Interests;</hi>
+               </l>
+               <l>And, when their <hi>Pow'r,</hi> is quite infeebled grown,</l>
+               <l>Cauſe you, to be deſtroyed by your <hi>own.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Hear, and believe me, (who have oft foretold,</l>
+               <l>What, ſome found true, though few regard it would)</l>
+               <l>This, is deſign'd: yet, you may, ne'ertheleſs</l>
+               <l>In ſafety be, if, by your wilfulneſs</l>
+               <l>You let not <hi>Oportunities</hi> paſs by,</l>
+               <l>Which, now, are in your <hi>hand,</hi> and in your <hi>eye:</hi>
+               </l>
+               <l>An entrance into <hi>Reſt,</hi> GOD, would now give,</l>
+               <l>If, you, will in humility <hi>believe.</hi>
+               </l>
+               <l>
+                  <hi>Believe</hi> then: and, although you do not heed</l>
+               <l>GOD's <hi>promiſes;</hi> believe, what he by <hi>deed</hi>
+               </l>
+               <l>Hath warranted, (with many gracious <hi>Pledges</hi>
+               </l>
+               <l>Thereof, vouchſafed in our <hi>Pilgrimages;</hi>)</l>
+               <l>And hath, with <hi>ſignal wonders</hi> ratifide</l>
+               <l>That, <hi>diffidence,</hi> withdraw us not aſide.</l>
+               <l>Thoſe <hi>mercies</hi> paſſed, which <hi>fore-tokens</hi> were</l>
+               <l>Of more to come, conſider, as they are</l>
+               <l>To be conſider'd; leſt, they aggravate</l>
+               <l>Our ſins, and, bring us to that ſad eſtate</l>
+               <l>Which we were in; and, wheel us back again</l>
+               <l>To <hi>Aegypt,</hi> there, for ever, to remain.</l>
+            </lg>
+            <lg>
+               <l>And, know this; (for, I nothing dare conceal,</l>
+               <l>Which, now, my heart inclines me to reveal)</l>
+               <l>That, they, who for <hi>Self-intereſt,</hi> enforce</l>
+               <l>A <hi>final breach;</hi> (and, of ſo great a <hi>Curſe;</hi>
+               </l>
+               <pb n="40" facs="tcp:170092:27"/>
+               <l>Needleſs occaſions, wilfully do give)</l>
+               <l>With <hi>Hypocrites,</hi> their <hi>Portion</hi> ſhall receive;</l>
+               <l>Who, are the worſt of <hi>ſinners;</hi> and whoſe doom</l>
+               <l>Is, to poſſeſs in <hi>Hell,</hi> the loweſt room.</l>
+               <l>Yea, know, if we unite not in the day</l>
+               <l>VVherein, GOD offers <hi>Peace,</hi> (and, whilſt we may)</l>
+               <l>The time, will be but ſhort, betwixt the <hi>Pow'r</hi>
+               </l>
+               <l>That, doth <hi>Protect;</hi> and, that, which will devour.</l>
+            </lg>
+            <lg>
+               <l>But, LORD, prevent what's threatned; &amp; ſuppreſs</l>
+               <l>That wicked <hi>Spirit</hi> of <hi>Contentiouſneſs,</hi>
+               </l>
+               <l>VVhich now doth raign: and, though we merit not</l>
+               <l>This <hi>Grace;</hi> yea, though, we have almoſt forgot</l>
+               <l>VVhat <hi>Bondage</hi> we were in; what <hi>Rest</hi> we want;</l>
+               <l>And, whereto, we are bound by <hi>Covenant;</hi>
+               </l>
+               <l>
+                  <hi>Save us!</hi> Oh, ſave us, in this preſent <hi>Criſis</hi>
+               </l>
+               <l>Of <hi>Good,</hi> and <hi>Ill,</hi> and, from our own <hi>Devices.</hi>
+               </l>
+               <l>Aſſiſt us, in performing our <hi>Conditions,</hi>
+               </l>
+               <l>That, thou mayſt have the <hi>Praiſe</hi> of our <hi>fruitious,</hi>
+               </l>
+               <l>And, we, the <hi>Comfort;</hi> who, are at this day,</l>
+               <l>Upon the verge of being caſt away,</l>
+               <l>Or of admiſſion to that bleſſed <hi>Reſt,</hi>
+               </l>
+               <l>In which conſiſts, our nobleſt <hi>Intereſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Let not th'enjoyment of a glorious <hi>Bleſſing,</hi>
+               </l>
+               <l>Now offer'd; (and, not far from our poſſeſſing)</l>
+               <l>Be vacated by <hi>us,</hi> who, are to ſhare</l>
+               <l>The greateſt part, in what thou wilt confer</l>
+               <l>If thankfully received: Let not that</l>
+               <l>High <hi>Title,</hi> wherewithal thou haſt of late</l>
+               <l>Thy <hi>ſervant</hi> honor'd, work effects on <hi>him</hi>
+               </l>
+               <l>Like thoſe, which uſually are found in them,</l>
+               <l>VVho, ſeek themſelves: nor, let <hi>Initiations,</hi>
+               </l>
+               <l>So far beyond our hopes, our expectations,</l>
+               <l>And, former <hi>Preſidents,</hi> be like the blaze</l>
+               <l>Of <hi>Comets,</hi> which, a while amuſe, amaze,</l>
+               <pb n="41" facs="tcp:170092:27"/>
+               <l>Or ſome way chear beholders in the night</l>
+               <l>Of their <hi>Afflictions,</hi> and, then, vaniſh quite.</l>
+               <l>But, let them grow and riſe, until they are</l>
+               <l>Improv'd, into a glorious <hi>fixed Star.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Let not my much unworthineſs, by whom</l>
+               <l>This <hi>Suit</hi> is made, a bar thereto become;</l>
+               <l>Nor cauſe thoſe, with the leſs effect to heed</l>
+               <l>Thoſe <hi>Cautions,</hi> which, I give them, now, to read.</l>
+               <l>For, through an <hi>earthen trunk</hi> though 'tis expreſt,</l>
+               <l>(Or, by a <hi>Rams-horn-trumpet,</hi> at the beſt)</l>
+               <l>Thy <hi>Spirit</hi> lent the breath, which gives the ſound,</l>
+               <l>And, will not let it be quite uſeleſs found;</l>
+               <l>But make it pertinent unto their <hi>ſhame,</hi>
+               </l>
+               <l>Or to their <hi>honour,</hi> who ſhall hear the ſame.</l>
+               <l>It tunes, a well-known <hi>Note;</hi> here's nothing ſpoke,</l>
+               <l>In <hi>Riddles,</hi> which may doubtfully be took,</l>
+               <l>As heretofore, when I was ſo inſpir'd</l>
+               <l>To ſpeak, as our <hi>Condition,</hi> then, requir'd.</l>
+               <l>Theſe <hi>Counſels,</hi> though, a <hi>man unwiſe</hi> may give them,</l>
+               <l>A <hi>wiſe man,</hi> without bluſhing, may receive them;</l>
+               <l>And, he that ſitteth in the higheſt place</l>
+               <l>May heed them with more honor, then diſgrace,</l>
+               <l>If, he as well conſider ſhall, from <hi>whom</hi>
+               </l>
+               <l>They may be ſent, as by <hi>whoſe hand,</hi> they come.</l>
+               <l>This, is a <hi>Piping,</hi> which the <hi>Babes</hi> who play</l>
+               <l>VVithin the <hi>Market-place,</hi> ſoon practiſe may</l>
+               <l>To <hi>dance</hi> unto; and, 'twill be well for them,</l>
+               <l>If, now, their <hi>Fathers,</hi> do not ſo contemn</l>
+               <l>This <hi>Muſick,</hi> that hereafter, they begin</l>
+               <l>In ſtead thereof, a bloody <hi>Matachin.</hi>
+               </l>
+               <l>For, though, theſe <hi>Warnings,</hi> come in that diſguiſe</l>
+               <l>VVhich <hi>Ignorance,</hi> and <hi>flouting Wits</hi> deſpiſe:</l>
+               <l>And, is a kinde of <hi>Preaching,</hi> which theſe times</l>
+               <l>Eſteems no better, then of ſcurrile <hi>Rimes:</hi>
+               </l>
+               <pb n="42" facs="tcp:170092:28"/>
+               <l>This, will appear, one of thoſe many <hi>ways,</hi>
+               </l>
+               <l>VVhereby, GOD, ſpeaks unto theſe <hi>later days;</hi>
+               </l>
+               <l>And, which, if ſlighted, will be ſcor'd among</l>
+               <l>Thoſe <hi>Warnings,</hi> that, have been contemn'd, too long.</l>
+            </lg>
+         </div>
+         <div type="author_to_the_reader">
+            <pb n="43" facs="tcp:170092:28"/>
+            <head>A RECAL to the Reader.</head>
+            <lg>
+               <l>MY POEM'S done; yet, prethee <hi>READER</hi> ſtay:</l>
+               <l>I have another word or two, to ſay,</l>
+               <l>VVherewith, before thou hence depart, I will</l>
+               <l>Theſe following leaves of <hi>empty paper</hi> fill:</l>
+               <l>That, if it ſhall be poſſible, I might</l>
+               <l>Once in my life, to thy advantage write,</l>
+               <l>And, of my <hi>labour,</hi> view ſome <hi>fruit,</hi> before</l>
+               <l>I, there am laid, where, I ſhall ſpeak no more;</l>
+               <l>And, that, thoſe <hi>Truths,</hi> which I have oft, in vain,</l>
+               <l>Spoke mildly, be not <hi>eccho'd</hi> forth again</l>
+               <l>VVith dreadful <hi>Repetitions,</hi> unto thoſe</l>
+               <l>VVho, to my <hi>Charmes,</hi> their <hi>Adders</hi> ears now cloſe;</l>
+               <l>Or, ſcorn, and ſlight them, as <hi>fantaſtick dreams,</hi>
+               </l>
+               <l>Or, needleſs deſcants, upon trivial <hi>Theams.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Having perus'd this, what art thou the better?</l>
+               <l>Unleſs, thou finde ariſing from the <hi>Letter,</hi>
+               </l>
+               <l>That <hi>Spirit,</hi> which begot theſe words in me,</l>
+               <l>The <hi>Soul</hi> of them, infuſing into thee?</l>
+               <l>VVith credit of their Truth, and with a ſence</l>
+               <l>Of that, <hi>eternal Love's,</hi> ſweet influence,</l>
+               <l>VVhich, for thy welfare, did my heart incline</l>
+               <l>To pour forth my <hi>Affections,</hi> into thine?</l>
+               <l>That, thou mightſt, timely, take from hence occaſion</l>
+               <l>Of due reſolvings, for thy preſervation:</l>
+               <pb n="44" facs="tcp:170092:29"/>
+               <l>For, on this fatal <hi>juncture of Affairs,</hi>
+               </l>
+               <l>Either thy <hi>Ruine,</hi> or elſe, thy <hi>Repairs</hi>
+               </l>
+               <l>Do now depend; and, will have an effect,</l>
+               <l>According, as thy <hi>Courſe,</hi> thou ſhalt direct.</l>
+            </lg>
+            <lg>
+               <l>What, wilt thou profit by it, if thou, ſtill,</l>
+               <l>Retaineſt a Perverſeneſs in thy <hi>Will?</hi>
+               </l>
+               <l>How ill doſt thou requite me, if, my <hi>Love</hi>
+               </l>
+               <l>No change in thy <hi>affections,</hi> hereby move?</l>
+               <l>Since, I, deſire no other recompence,</l>
+               <l>But, that, thou mayſt have benefit from hence?</l>
+               <l>And, I, that ſmall ſhare, which a <hi>ſingle one</hi>
+               </l>
+               <l>Hath in that good, which is to <hi>many</hi> done?</l>
+               <l>And, with, how little <hi>comfort,</hi> ſhall I ſpeak</l>
+               <l>Another time, if, no effect, this take?</l>
+            </lg>
+            <lg>
+               <l>What, had I thereby loſt, if unexpreſt,</l>
+               <l>Theſe things, had ſtill remained in my breſt?</l>
+               <l>Since, I had been, whilſt they continu'd there,</l>
+               <l>The ſame I am, now they divulged are?</l>
+               <l>Or, what, by ſetting thus my heart at large,</l>
+               <l>Gain I, except, my <hi>Conſciences</hi> diſcharge,</l>
+               <l>With ſome weak hopes, that, thou, and others, may</l>
+               <l>Be benefited, by the words I ſay?</l>
+               <l>Sure, none: Then, grudge me not that ſmall effect,</l>
+               <l>Which, from this Friendly ſervice, I, expect</l>
+               <l>By thy improvement; in which profit, thine</l>
+               <l>Will be a <hi>Portion,</hi> far exceeding mine.</l>
+            </lg>
+            <lg>
+               <l>If, for my ſole <hi>Advantage,</hi> thou believe</l>
+               <l>I, publiſh this; thy <hi>thinkings,</hi> thee deceive;</l>
+               <l>Nor, <hi>Profit,</hi> or <hi>Protection, peace</hi> or <hi>praiſe</hi>
+               </l>
+               <l>Do I obtain, or look for, in theſe days</l>
+               <l>By ſuch <hi>Expreſſions;</hi> or, by <hi>Services</hi>
+               </l>
+               <l>Which are ſo little cared for, as theſe.</l>
+               <l>Whilſt many, ſad <hi>Confuſions</hi> on us lies;</l>
+               <l>VVhilſt, moſt men, their own ſafety do deſpiſe;</l>
+               <pb n="45" facs="tcp:170092:29"/>
+               <l>And, when, few, any <hi>Cautions</hi> much regard,</l>
+               <l>Save thoſe, whereby, vain ends may be preſer'd;</l>
+               <l>I ſhall, to this intent, prevail no more</l>
+               <l>Then if I ſhould endeavour, to out-rore</l>
+               <l>The <hi>Windes</hi> and <hi>Seas.</hi> I have, now, yeer, by yeer,</l>
+               <l>And almoſt day by day, attended there</l>
+               <l>Full twice ſix yeers; where, was within one <hi>wall</hi>
+               </l>
+               <l>A perfect <hi>Repreſentative</hi> of all</l>
+               <l>Within this <hi>Iſle,</hi> both at the beſt and worſt;</l>
+               <l>And I ſo well obſerv'd it, from the <hi>firſt,</hi>
+               </l>
+               <l>Ev'n to the <hi>laſt;</hi> and, by that <hi>Model,</hi> ſee</l>
+               <l>So truely, what of thoſe may judged be</l>
+               <l>Whom they did <hi>repreſent,</hi> that I preſume</l>
+               <l>Gods <hi>providence</hi> conſtrain'd me to conſume</l>
+               <l>So many hours, to wait on them in vain,</l>
+               <l>That, by ſuch loſs, I, better things might gain.</l>
+            </lg>
+            <lg>
+               <l>What can be got by <hi>words?</hi> where ſighs, &amp; grones,</l>
+               <l>And tears, &amp; cries, move <hi>men</hi> no more then ſtones?</l>
+               <l>When five, or ten, or twelve whole yeers delay</l>
+               <l>Shall be no more conſider'd then a day?</l>
+               <l>And, when nor <hi>wants,</hi> nor juſtneſs of the <hi>Cauſe,</hi>
+               </l>
+               <l>Nor <hi>Importunitie,</hi> compaſſion draws;</l>
+               <l>Or, where few Suits are brought to wiſhed end</l>
+               <l>But by a <hi>Bribe,</hi> or ſome corrupted friend?</l>
+               <l>What, can be got by <hi>words,</hi> deſir'd by none?</l>
+               <l>When <hi>deeds,</hi> which, for the <hi>Publike weal</hi> were done,</l>
+               <l>And, begg'd for, with a <hi>vowed Retribution,</hi>
+               </l>
+               <l>Have neither good reſpect, nor reſtitution?</l>
+               <l>Where, ſetious <hi>Proteſtations,</hi> are forgot?</l>
+               <l>Where <hi>promiſes,</hi> ſeem things intended not?</l>
+               <l>And, when moſt men, reſolved ſeem, to cheriſh</l>
+               <l>Their <hi>wilfulneſs,</hi> although thereby, they periſh?</l>
+            </lg>
+            <lg>
+               <l>If, for my <hi>words,</hi> receive again, I may</l>
+               <l>Reſpective words, I take it for large pay,</l>
+               <pb n="46" facs="tcp:170092:30"/>
+               <l>And, 'twill enough content me, if my <hi>will</hi>
+               </l>
+               <l>To do thee <hi>good,</hi> be not repay'd with <hi>ill;</hi>
+               </l>
+               <l>Or, if I may but know, ere 't is too late,</l>
+               <l>My hope, of what is juſtly aimed at,</l>
+               <l>Shall be deny'd, with loſs of no more <hi>coſt,</hi>
+               </l>
+               <l>Or, <hi>time,</hi> then is thereon, already loſt:</l>
+               <l>For, ſuch a <hi>mercy,</hi> many had prſerv'd,</l>
+               <l>Whom fruitleſs hopes have begger'd, yea, &amp; ſtarv'd.</l>
+            </lg>
+            <lg>
+               <l>If, thou ſuppoſe, I, gain, by what I write;</l>
+               <l>Conſider it, and thou ſuch thoughts wilt ſlight.</l>
+               <l>What profit is it, which, thence raiſe he may</l>
+               <l>Who <hi>writes,</hi> and <hi>prints,</hi> and freely gives away</l>
+               <l>At his own charge? and, doth expect no more,</l>
+               <l>But, good <hi>acceptance,</hi> and the <hi>reading o'er?</hi>
+               </l>
+               <l>What gain I, elſe, for time and labour ſpent,</l>
+               <l>But, to my face, perhaps, a <hi>Complement?</hi>
+               </l>
+               <l>And, ſometimes, when my back is turn'd about,</l>
+               <l>A <hi>ſecret ſleight,</hi> or, elſe, an <hi>open flout?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What <hi>Patronage,</hi> have I, yet thereby gained</l>
+               <l>Through which, my <hi>cauſe,</hi> or <hi>perſon,</hi> is ſuſtained?</l>
+               <l>What <hi>favours,</hi> am I likely to obtain,</l>
+               <l>Who flatter not the <hi>proud,</hi> nor ſooth the <hi>vain?</hi>
+               </l>
+               <l>But, rather, venture <hi>Freedom,</hi> and <hi>Eſtate,</hi>
+               </l>
+               <l>Then, not to ſpeak <hi>truth</hi> home; or, ſpeak too late</l>
+               <l>So, need require it; ſo, my free expreſſion</l>
+               <l>Wrongs not the <hi>Common Peace,</hi> nor <hi>ſound diſcretion</hi>
+               </l>
+               <l>Nor <hi>Innocents;</hi> nor, thoſe, who <hi>guilty</hi> are,</l>
+               <l>Arraigneth anywhere, ſave at the <hi>Bar</hi>
+               </l>
+               <l>Of their own <hi>Conſciences,</hi> by <hi>Writs,</hi> that come</l>
+               <l>In <hi>gen'ral</hi> terms, and to I know not whom?</l>
+            </lg>
+            <lg>
+               <l>If, thou conceive, that, I ambitious am</l>
+               <l>Of <hi>Praiſe</hi> hereby; Thou, therein art too blame.</l>
+               <l>What <hi>praiſe,</hi> from POETRY, can I expect,</l>
+               <l>Which, findes an <hi>Epidemical neglect?</hi>
+               </l>
+               <pb n="47" facs="tcp:170092:30"/>
+               <l>Chiefly, from ſuch as mine, upon ſuch <hi>Theams</hi>
+               </l>
+               <l>As I oft chuſe? and, when both <hi>winds</hi> and <hi>ſtreams</hi>
+               </l>
+               <l>Againſt me are? and, alſo, in a time,</l>
+               <l>When <hi>Poetry</hi> it ſelf is thought a crime?</l>
+               <l>When, they, who would reputed be, <hi>moſt holy,</hi>
+               </l>
+               <l>Look on it, as <hi>Prophaneſs,</hi> or meer <hi>folly?</hi>
+               </l>
+               <l>VVhen, they, you call the VVITS, all ſtrains diſguſt</l>
+               <l>That, ſooth not <hi>vanitie,</hi> or ſtir up <hi>luſt?</hi>
+               </l>
+               <l>Or, are not, with forc'd <hi>metaphors,</hi> and <hi>words</hi>
+               </l>
+               <l>(VVhoſe <hi>juncture,</hi> neither perfect ſenſe affords,</l>
+               <l>Nor any uſeful matter) ſent abroad</l>
+               <l>Dreſt, and trim'd up, in their <hi>affected mode?</hi>
+               </l>
+               <l>And, when the moſt part, are ſo ignorant,</l>
+               <l>That, they, ſufficient underſtanding want</l>
+               <l>To read a <hi>Verſe?</hi> and, put no difference</l>
+               <l>'Twixt beſt <hi>Compoſers,</hi> and that baſe <hi>non-ſence</hi>
+               </l>
+               <l>VVhich, <hi>Pedlers,</hi> up and down the <hi>Country</hi> bring,</l>
+               <l>And, <hi>Rogues</hi> and <hi>Whores</hi> about the <hi>City</hi> ſing?</l>
+            </lg>
+            <lg>
+               <l>Nor, is my <hi>Peace,</hi> or ſafety to be got</l>
+               <l>Thereby; and, doubtleſs, if I know it not,</l>
+               <l>I am a <hi>fool:</hi> for, I, have often loſt</l>
+               <l>My <hi>Freedom</hi> by it, with no <hi>little coſt.</hi>
+               </l>
+               <l>He, that their <hi>Courſes,</hi> conſtantly gainſays,</l>
+               <l>VVho, <hi>Ahab</hi>-like, are wilful in their ways,</l>
+               <l>From them, gets nothing, by his <hi>contradiction,</hi>
+               </l>
+               <l>But, <hi>Micah</hi>'s bread and water of <hi>affliction.</hi>
+               </l>
+               <l>And, what on my <hi>Remembrancer,</hi> enſu'd,</l>
+               <l>(VVhich, thouſands in my time, fulfil'd have view'd)</l>
+               <l>Informs me fully, what retaliation</l>
+               <l>I, am to look for, from this <hi>Generation.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>VVho, then can think, that, he, who doth expoſe</l>
+               <l>His <hi>thoughts,</hi> as I have done, to <hi>friends</hi> and <hi>foes,</hi>
+               </l>
+               <l>Amidſt ſo many <hi>Factions?</hi> (when, but one</l>
+               <l>He well can pleaſe, and, peradventure none?)</l>
+               <pb n="48" facs="tcp:170092:31"/>
+               <l>VVho then, I ſay, can think, that <hi>outward reſt</hi>
+               </l>
+               <l>VVas his chief aim? or, his own <hi>Intereſt</hi>
+               </l>
+               <l>The <hi>mark</hi> he ſhot at? or, that he ſhall ever</l>
+               <l>Finde <hi>Peace external,</hi> whilſt, he doth perſever</l>
+               <l>In ſuch a <hi>Courſe?</hi> until, a <hi>change,</hi> GOD brings,</l>
+               <l>As well in <hi>Manners,</hi> as in other things?</l>
+            </lg>
+            <lg>
+               <l>Such, onely, hitherto, hath been my <hi>lot,</hi>
+               </l>
+               <l>That, I, in <hi>ſixty ſix</hi> yeers have ſcarce got</l>
+               <l>
+                  <hi>Six months</hi> together of that common <hi>Reſt,</hi>
+               </l>
+               <l>VVhich is by many, all their life poſſeſt;</l>
+               <l>And, now of late, unto what <hi>Side</hi> ſoe'er,</l>
+               <l>Or, <hi>Principle,</hi> I truely did adhere:</l>
+               <l>Some men of all <hi>Sides;</hi> ev'n of <hi>That,</hi> whoſe <hi>Cauſe</hi>
+               </l>
+               <l>Hath had my <hi>ſuffrages, pen, purſe, applauſe,</hi>
+               </l>
+               <l>And <hi>faithful'ſt aid,</hi> hath brought as ſad effects</l>
+               <l>On me, by their deſpights, or diſreſpects,</l>
+               <l>As have all they, whoſe more deſerved hate,</l>
+               <l>My <hi>Pen,</hi> for their ſakes, did exaſperate.</l>
+               <l>Nay; would it were no worſe: By ſome of thoſe,</l>
+               <l>I ſuffer more, then, by our <hi>common Foes.</hi>
+               </l>
+               <l>VVhich, here, I mention, onely to prevent</l>
+               <l>A <hi>falſe ſurmiſe;</hi> and, not in diſcontent:</l>
+               <l>For, I, embrace my <hi>Portion,</hi> with <hi>thanks-giving,</hi>
+               </l>
+               <l>And, would not change it, with the beſt man living!</l>
+            </lg>
+            <lg>
+               <l>To ſum up all, and give thee my beſt pledge</l>
+               <l>For my good meaning, in what I alledge;</l>
+               <l>I hereby call to witneſs, <hi>Him,</hi> that knows</l>
+               <l>VVhat, in my heart, I ſecretly propoſe,</l>
+               <l>That, my chief purpoſe in divulging this,</l>
+               <l>Is, to reform, thoſe things which are amiſs</l>
+               <l>Both, in my ſelf, and others: to make ſtrong</l>
+               <l>His hand, to whom this <hi>Title</hi> doth belong:</l>
+               <l>And, to preſerve that <hi>Peace,</hi> which, being loſt,</l>
+               <l>More then our lives, and our eſtates may coſt.</l>
+               <pb n="49" facs="tcp:170092:31"/>
+               <l>I look for nothing, but to be abus'd</l>
+               <l>And, ſome way to be wrongfully accus'd</l>
+               <l>By thoſe whom <hi>this</hi> diſtaſtes, that, it may ſeem</l>
+               <l>The leſs worth hearing, by my diſeſteem:</l>
+               <l>And if his <hi>Vertue,</hi> who muſt break the blow</l>
+               <l>Defend me not, I'm ſure it will be ſo.</l>
+               <l>I nothing ſeek on me to be beſtown</l>
+               <l>Save onely that, which is by right mine own;</l>
+               <l>To diſengage me from the <hi>world;</hi> wherein</l>
+               <l>(And wherewith) I, unwarily have bin</l>
+               <l>Too far, of late, engaged; and, from whom</l>
+               <l>I cannot fairly diſoblig'd become,</l>
+               <l>VVithout a <hi>Retribution,</hi> of ſuch things</l>
+               <l>VVhich ſhe hath lent; yea, which her <hi>promiſings</hi>
+               </l>
+               <l>Embolden'd me to take; (and, which, ſhe knows</l>
+               <l>That, more then twice told, ſhe unto me ows,</l>
+               <l>Upon a juſt <hi>Account.</hi>) But, were I free,</l>
+               <l>I hope ſhe ſhould not re-intangle me</l>
+               <l>In ought, ſave what will viſibly pertain</l>
+               <l>More to the <hi>Publike,</hi> then my <hi>private gain.</hi>
+               </l>
+               <l>For, my <hi>ambition,</hi> is to live and die</l>
+               <l>Henceforth, unheeded; and, retir'd to lie</l>
+               <l>VVhere, I a little while, without annoy,</l>
+               <l>My <hi>ſelf,</hi> with my <hi>relations,</hi> may enjoy:</l>
+               <l>And, then, reſigne my place, to him, that muſt</l>
+               <l>Supply it, when I ſlumber in the duſt.</l>
+            </lg>
+            <lg>
+               <l>But if this be too great an earthly bliſs,</l>
+               <l>For my enjoyment; yet I'm ſure of this,</l>
+               <l>That, I ſhall there be laid, ere it be long,</l>
+               <l>VVhere, I ſhall have no ſenſe of <hi>right</hi> or <hi>wrong;</hi>
+               </l>
+               <l>And, though <hi>I nothing have,</hi> reſt quiet, there,</l>
+               <l>VVhere, I ſhall alſo, neither <hi>want,</hi> nor <hi>care.</hi>
+               </l>
+            </lg>
+            <pb n="50" facs="tcp:170092:32"/>
+            <lg>
+               <l>This <hi>Postſcript,</hi> READER, is on thee beſtown,</l>
+               <l>To rouze thy <hi>Spirit,</hi> and hold up mine own;</l>
+               <l>(VVho, have enough to do, to keep my mind</l>
+               <l>Cloſe to that <hi>work,</hi> for which I was deſign'd,</l>
+               <l>Amid thoſe great temptations, and deſertions</l>
+               <l>VVhich ſet before me manifold diverſions:)</l>
+               <l>And, if, thou make me, now, no recompence,</l>
+               <l>For this my <hi>Pains,</hi> by drawing profit hence</l>
+               <l>Unto thy ſelf; thou, wholly, wilt deſtroy,</l>
+               <l>That, which I hereby hoped to enjoy,</l>
+               <l>And, doſt me wrong. To thee, thus much, to tell</l>
+               <l>I had a minde: which being done, <hi>Farewel.</hi>
+               </l>
+               <l>Henceforth, <hi>ſay,</hi> or or <hi>gainſay;</hi> do, what ye will;</l>
+               <l>(Let him, that's <hi>filthy,</hi> ſo continue ſtill.)</l>
+               <l>I've done my part, to make clean what was foul;</l>
+               <l>I, to my pow'r, have here diſcharg'd my <hi>Soul,</hi>
+               </l>
+               <l>Of what it had in <hi>charge;</hi> and, on this <hi>ſtring</hi>
+               </l>
+               <l>VVill ſtrike no more: But for the future ſing</l>
+               <l>To GOD, and to my ſelf, till they appear</l>
+               <l>VVho come with <hi>eyes to ſee,</hi> and <hi>ears to hear.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170092:32"/>
+         </div>
+      </body>
+   </text>
+</TEI>
